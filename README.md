@@ -1,4 +1,4 @@
 # Laboratórios em Bioinformática
-José Lemos
-Paulo Seixal
+José Lemos\n
+Paulo Seixal\n
 Rúben Fernandes
