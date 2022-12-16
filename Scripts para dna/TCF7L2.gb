@@ -1,0 +1,117 @@
+LOCUS       CR536574                1791 bp    mRNA    linear   PRI 16-OCT-2008
+DEFINITION  Homo sapiens full open reading frame cDNA clone RZPDo834H0722D for
+            gene TCF7L2, transcription factor 7-like 2 (T-cell specific,
+            HMG-box); complete cds, incl. stopcodon.
+ACCESSION   CR536574
+VERSION     CR536574.1
+KEYWORDS    Full ORF shuttle clone, Gateway(TM), complete cds.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1791)
+  AUTHORS   Halleck,A., Ebert,L., Mkoundinya,M., Schick,M., Eisenstein,S.,
+            Neubert,P., Kstrang,K., Schatten,R., Shen,B., Henze,S., Mar,W.,
+            Korn,B., Zuo,D., Hu,Y. and LaBaer,J.
+  TITLE     Cloning of human full open reading frames in Gateway(TM) system
+            entry vector (pDONR201)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1791)
+  AUTHORS   Halleck,A., Ebert,L., Mkoundinya,M., Schick,M., Eisenstein,S.,
+            Neubert,P., Kstrang,K., Schatten,R., Shen,B., Henze,S., Mar,W.,
+            Korn,B., Zuo,D., Hu,Y. and LaBaer,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUN-2004) RZPD Deutsches Ressourcenzentrum fuer
+            Genomforschung GmbH, Im Neuenheimer Feld 580, D-69120 Heidelberg,
+            Germany
+COMMENT     RZPD; RZPDo834H0722D, ORFNo 3189
+            www.rzpd.de/cgi-bin/products/cl.cgi?CloneID=RZPDo834H0722D RZPDLIB;
+            Human Full ORF Clones Gateway(TM) - RZPD (kan-resist.) RZPD LIB No.
+            834
+            www.rzpd.de/cgi-bin/products/showLib.pl.cgi/response?libNo=834
+            www.rzpd.de/products/orfclones/
+            Contact: Inge Arlart
+            RZPD Deutsches Ressourcenzentrum fuer Genomforschung GmbH,
+            Heubnerweg 6, D-14059 Berlin, Germany
+            Tel: +49 30 32639 100
+            Fax: +49 30 32639 111
+            www.rzpd.de
+            This clone is available from RZPD;
+            contact RZPD (customer.service@rzpd.de) for further information.
+            This CDS clone is a part of a collection of human full ORF clones
+            jointly established and verified by the Harvard Institute of
+            Proteomics and RZPD.
+            This CDS has been cloned incl. stopcodon.
+            The CDS has been inserted into pDONR201 via a BP Clonase(TM)
+            reaction. Additional sequence has been added in front of the start
+            codon: att..AAAAAA GCA GGC TCC ACC (ATG).
+            The stopcodon is followed by the 3' att site:
+            (stop)GACCCAGCTTTCTT..att Compared to the reference sequence
+            NM_030756 (gi13540470) we found AA exchange(s) at position (first
+            base of changed triplet): 799(val->met) 1717(trp->ser)
+            Clone distribution: http://www.rzpd.de/products/orfclones/
+FEATURES             Location/Qualifiers
+     source          1..1791
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="RZPDo834H0722D"
+                     /clone_lib="Human Full ORF Clones Gateway(TM) - RZPD"
+                     /lab_host="DH10B"
+                     /note="Vector: pDONR201, Site_1: attP1; Site_2: attP2"
+     gene            1..1791
+                     /gene="TCF7L2"
+     CDS             1..1791
+                     /gene="TCF7L2"
+                     /codon_start=1
+                     /protein_id="CAG38811.1"
+                     /db_xref="GOA:Q6FHW4"
+                     /db_xref="HGNC:HGNC:11641"
+                     /db_xref="InterPro:IPR000910"
+                     /db_xref="InterPro:IPR009071"
+                     /db_xref="InterPro:IPR013558"
+                     /db_xref="UniProtKB/TrEMBL:Q6FHW4"
+                     /translation="MPQLNGGGGDDLGANDELISFKDEGEQEEKSSENSSAERDLADVK
+                     SSLVNESETNQNSSSDSEAERRPPPRSESFRDKSRESLEEAAKRQDGGLFKGPPYPGYP
+                     FIMIPDLTSPYLPNGSLSPTARTYLQMKWPLLDVQAGSLQSRQALKDARSPSPAHIVSN
+                     KVPVVQHPHHVHPLTPLITYSNEHFTPGNPPPHLPADVDPKTGIPRPPHPPDISPYYPL
+                     SPGTVGQIPHPLGWLVPQQGQPVYPITTGGFRHPYPTALTVNASMSRFPPHMVPPHHTL
+                     HTTGIPHPAIVTPTVKQESSQSDVGSLHSSKHQDSKKEEEKKKPHIKKPLNAFMLYMKE
+                     MRAKVVAECTLKESAAINQILGRRWHALSREEQAKYYELARKERQLHMQLYPGWSARDN
+                     YGKKKKRKRDKQPGETNEHSECFLNPCLSLPPITDLSAPKKCRARFGLDQQNNWCGPCR
+                     RKKKCVRYIQGEGSCLSPPSSDGSLLDSPPPSPNLLGSPPRDAKSQTEQTQPLSLSLKP
+                     DPLAHLSMMPPPPALLLAEATHKASALCPNGALDLPPAALQPAAPSSSIAQPSTSSLHS
+                     HSSLAGTQPQPLSLVTKSLE"
+ORIGIN
+        1 atgccgcagc tgaacggcgg tggaggggat gacctaggcg ccaacgacga actgatttcc
+       61 ttcaaagacg agggcgaaca ggaggagaag agctccgaaa actcctcggc agagagggat
+      121 ttagctgatg tcaaatcgtc tctagtcaat gaatcagaaa cgaatcaaaa cagctcctcc
+      181 gattccgagg cggaaagacg gcctccgcct cgctccgaaa gtttccgaga caaatcccgg
+      241 gaaagtttgg aagaagcggc caagaggcaa gatggagggc tctttaaggg gccaccgtat
+      301 cccggctacc ccttcatcat gatccccgac ctgacgagcc cctacctccc caacggatcg
+      361 ctctcgccca ccgcccgaac ctatctccag atgaaatggc cactgcttga tgtccaggca
+      421 gggagcctcc agagtagaca agccctcaag gatgcccggt ccccatcacc ggcacacatt
+      481 gtctctaaca aagtgccagt ggtgcagcac cctcaccatg tccaccccct cacgcctctt
+      541 atcacgtaca gcaatgaaca cttcacgccg ggaaacccac ctccacactt accagccgac
+      601 gtagacccca aaacaggaat cccacggcct ccgcaccctc cagatatatc cccgtattac
+      661 ccactatcgc ctggcaccgt aggacaaatc ccccatccgc taggatggtt agtaccacag
+      721 caaggtcaac cagtgtaccc aatcacgaca ggaggattca gacaccccta ccccacagct
+      781 ctgaccgtca atgcttccat gtccaggttc cctccccata tggtcccacc acatcatacg
+      841 ctacacacga cgggcattcc gcatccggcc atagtcacac caacagtcaa acaggaatcg
+      901 tcccagagtg atgtcggctc actccatagt tcaaagcatc aggactccaa aaaggaagaa
+      961 gaaaagaaga agccccacat aaagaaacct cttaatgcat tcatgttgta tatgaaggaa
+     1021 atgagagcaa aggtcgtagc tgagtgcacg ttgaaagaaa gcgcggccat caaccagatc
+     1081 cttgggcgga ggtggcatgc actgtccaga gaagagcaag cgaaatacta cgagctggcc
+     1141 cggaaggagc gacagcttca tatgcaactg taccccggct ggtccgcgcg ggataactat
+     1201 ggaaagaaga agaagaggaa aagggacaag cagccgggag agaccaatga acacagcgaa
+     1261 tgtttcctaa atccttgcct ttcacttcct ccgattacag acctgagcgc tcctaagaaa
+     1321 tgccgagcgc gctttggcct tgatcaacag aataactggt gcggcccttg caggagaaaa
+     1381 aaaaagtgcg ttcgctacat acaaggtgaa ggcagctgcc tcagcccacc ctcttcagat
+     1441 ggaagcttac tagattcgcc tcccccctcc ccgaacctgc taggctcccc tccccgagac
+     1501 gccaagtcac agactgagca gacccagcct ctgtcgctgt ccctgaagcc cgaccccctg
+     1561 gcccacctgt ccatgatgcc tccgccaccc gccctcctgc tcgctgaggc cacccacaag
+     1621 gcctccgccc tctgtcccaa cggggccctg gacctgcccc cagccgcttt gcagcctgcc
+     1681 gccccctcct catcaattgc acagccgtcg acttcttcct tacattccca cagctccctg
+     1741 gccgggaccc agccccagcc gctgtcgctc gtcaccaagt ctttagaata g
+//
