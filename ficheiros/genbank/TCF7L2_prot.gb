@@ -1,0 +1,904 @@
+LOCUS       TF7L2_HUMAN              619 aa            linear   PRI 14-DEC-2022
+DEFINITION  RecName: Full=Transcription factor 7-like 2; AltName: Full=HMG box
+            transcription factor 4; AltName: Full=T-cell-specific transcription
+            factor 4; Short=T-cell factor 4; Short=TCF-4; Short=hTCF-4.
+ACCESSION   Q9NQB0
+VERSION     Q9NQB0.2
+KEYWORDS    3D-structure; Activator; Alternative splicing; Diabetes mellitus;
+            DNA-binding; Isopeptide bond; Nucleus; Phosphoprotein; Reference
+            proteome; Repressor; Transcription; Transcription regulation; Ubl
+            conjugation; Wnt signaling pathway.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    UniProtKB: locus TF7L2_HUMAN, accession Q9NQB0; class: standard. extra accessions:B4DRJ8,B9X074,C6ZRJ8,C6ZRK0,E2GH14,E2GH19,E2GH20,E2GH24, E2GH25,E9PFH9,F8W742,F8W7T5,O00185,Q9NQB1,Q9NQB2,Q9NQB3,Q9NQB4, Q9NQB5,Q9NQB6,Q9NQB7,Q9ULC2 created: Mar 25, 2003. sequence updated: Mar 25, 2003. annotation updated: Dec 14, 2022. xrefs: Y11306.2, CAA72166.2, AJ270770.1, CAB97212.1, AJ270771.1, AJ270772.1, AJ270773.1, AJ270774.1, AJ270775.1, AJ270776.1, AJ270778.1, CAB97213.1, CAB97214.1, AJ270777.1, CAB97215.1, CAB97216.1, CAB97217.1, CAB97218.1, CAB97219.1, FJ010167.1, ACI28525.1, FJ010169.1, ACI28527.1, FJ010172.1, ACI28530.1, HM352839.1, ADK35175.1, HM352842.1, ADK35178.1, HM352844.1, ADK35180.1, HM352845.1, ADK35187.1, HM352846.1, ADK35181.1, HM352847.1, ADK35182.1, HM352849.1, ADK35184.1, HM352850.1, ADK35185.1, AB440195.1, BAH24004.1, AK299295.1, BAG61310.1, AL135792.10, AL158212.15, AL445486.10, AL451084.19, CH471066.2, EAW49513.1, EAW49515.1, EAW49516.1, BC032656.1, AAH32656.1, AB034691.1, BAA86225.1, S22807, NP_001139746.1, NP_001139755.1, NP_001139756.1, NP_001139758.1, NP_001185455.1, NP_001185457.1, NP_001185460.1, XP_005270141.1, XP_005270146.1, XP_005270153.1, XP_005270160.1, XP_016872081.1, XP_016872082.1, 1JDH_B, 1JPW_D, 1JPW_E, 1JPW_F, 2GL7_B, 2GL7_E xrefs (non-sequence databases): CCDS:CCDS53577.1, CCDS:CCDS53578.1, CCDS:CCDS55729.1, CCDS:CCDS7576.1, CCDS:CCDS86148.1, PDBsum:1JDH, PDBsum:1JPW, PDBsum:2GL7, AlphaFoldDB:Q9NQB0, SMR:Q9NQB0, BioGRID:112795, CORUM:Q9NQB0, DIP:DIP-36236N, IntAct:Q9NQB0, MINT:Q9NQB0, STRING:9606.ENSP00000358404, BindingDB:Q9NQB0, ChEMBL:CHEMBL3038511, iPTMnet:Q9NQB0, PhosphoSitePlus:Q9NQB0, BioMuta:TCF7L2, DMDM:29337146, EPD:Q9NQB0, jPOST:Q9NQB0, MassIVE:Q9NQB0, MaxQB:Q9NQB0, PaxDb:Q9NQB0, PeptideAtlas:Q9NQB0, ProteomicsDB:15216, ProteomicsDB:29884, ProteomicsDB:30005, ProteomicsDB:82120, ProteomicsDB:82121, ProteomicsDB:82122, ProteomicsDB:82123, ProteomicsDB:82124, ProteomicsDB:82125, ProteomicsDB:82126, ProteomicsDB:82127, ProteomicsDB:82128, ProteomicsDB:82129, Antibodypedia:31824, DNASU:6934, Ensembl:ENST00000352065.10, Ensembl:ENSP00000344823.5, Ensembl:ENSG00000148737.17, Ensembl:ENST00000355717.9, Ensembl:ENSP00000347949.4, Ensembl:ENST00000355995.9, Ensembl:ENSP00000348274.4, Ensembl:ENST00000369397.8, Ensembl:ENSP00000358404.4, Ensembl:ENST00000538897.5, Ensembl:ENSP00000446172.1, Ensembl:ENST00000627217.3, Ensembl:ENSP00000486891.1, GeneID:6934, KEGG:hsa:6934, MANE-Select:ENST00000355995.9, UCSC:uc001lac.5, AGR:HGNC:11641, CTD:6934, DisGeNET:6934, GeneCards:TCF7L2, HGNC:11641, HPA:ENSG00000148737, MalaCards:TCF7L2, MIM:125853, MIM:602228, neXtProt:NX_Q9NQB0, OpenTargets:ENSG00000148737, Orphanet:528084, PharmGKB:PA36394, VEuPathDB:HostDB:ENSG00000148737, eggNOG:KOG3248, GeneTree:ENSGT00940000155535, HOGENOM:CLU_013229_5_0_1, InParanoid:Q9NQB0, OMA:WCVESNK, OrthoDB:807716at2759, PhylomeDB:Q9NQB0, TreeFam:TF318448, PathwayCommons:Q9NQB0, Reactome:R-HSA-201722, Reactome:R-HSA-3769402, Reactome:R-HSA-381771, Reactome:R-HSA-4086398, Reactome:R-HSA-4411364, Reactome:R-HSA-4641265, Reactome:R-HSA-5339700, Reactome:R-HSA-8853884, Reactome:R-HSA-8951430, SignaLink:Q9NQB0, SIGNOR:Q9NQB0, BioGRID-ORCS:6934, ChiTaRS:TCF7L2, EvolutionaryTrace:Q9NQB0, GeneWiki:TCF7L2, GenomeRNAi:6934, Pharos:Q9NQB0, PRO:PR:Q9NQB0, Proteomes:UP000005640, RNAct:Q9NQB0, Bgee:ENSG00000148737, ExpressionAtlas:Q9NQB0, Genevisible:Q9NQB0, GO:1990907, GO:0070369, GO:0071664, GO:0000785, GO:0005654, GO:0005634, GO:0016605, GO:0032993, GO:0070016, GO:0008013, GO:0003700, GO:0000981, GO:0045295, GO:0060090, GO:0016922, GO:0003676, GO:0019901, GO:0000978, GO:0061629, GO:0043565, GO:0000976, GO:0001568, GO:0060070, GO:0044334, GO:0045444, GO:0042593, GO:0043570, GO:0048625, GO:0090090, GO:0043433, GO:0045892, GO:2001237, GO:0000122, GO:2000675, GO:0031016, GO:0050679, GO:0010909, GO:0032024, GO:0032092, GO:0051897, GO:1900182, GO:0045944, GO:0032350, GO:0048660, GO:0006357, GO:0009749, DisProt:DP00175, Gene3D:1.10.30.10, Gene3D:4.10.900.10, IDEAL:IID00100, InterPro:IPR027397, InterPro:IPR013558, InterPro:IPR009071, InterPro:IPR036910, InterPro:IPR024940, PANTHER:PTHR10373, Pfam:PF08347, Pfam:PF00505, SMART:SM00398, SUPFAM:SSF47095, PROSITE:PS50118
+REFERENCE   1  (residues 1 to 619)
+  AUTHORS   Korinek,V., Barker,N., Morin,P.J., van Wichen,D., de Weger,R.,
+            Kinzler,K.W., Vogelstein,B. and Clevers,H.
+  TITLE     Constitutive transcriptional activation by a beta-catenin-Tcf
+            complex in APC-/- colon carcinoma
+  JOURNAL   Science 275 (5307), 1784-1787 (1997)
+   PUBMED   9065401
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 8 AND 9), AND INTERACTION WITH
+            CTNNB1.; TISSUE=Fetus
+REFERENCE   2  (residues 1 to 619)
+  AUTHORS   Duval,A., Rolland,S., Tubacher,E., Bui,H., Thomas,G. and Hamelin,R.
+  TITLE     The human T-cell transcription factor-4 gene: structure, extensive
+            characterization of alternative splicings, and mutational analysis
+            in colorectal cancer cell lines
+  JOURNAL   Cancer Res 60 (14), 3872-3879 (2000)
+   PUBMED   10919662
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORMS 1; 2; 3; 4; 5; 6; 7 AND
+            9), AND VARIANT ASN-346.
+REFERENCE   3  (residues 1 to 619)
+  AUTHORS   Prokunina-Olsson,L., Welch,C., Hansson,O., Adhikari,N., Scott,L.J.,
+            Usher,N., Tong,M., Sprau,A., Swift,A., Bonnycastle,L.L., Erdos,M.R.,
+            He,Z., Saxena,R., Harmon,B., Kotova,O., Hoffman,E.P., Altshuler,D.,
+            Groop,L., Boehnke,M., Collins,F.S. and Hall,J.L.
+  TITLE     Tissue-specific alternative splicing of TCF7L2
+  JOURNAL   Hum Mol Genet 18 (20), 3795-3804 (2009)
+   PUBMED   19602480
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 12; 13 AND 14), AND ALTERNATIVE
+            SPLICING.; TISSUE=Brain
+REFERENCE   4  (residues 1 to 619)
+  AUTHORS   Tsedensodnom,O., Koga,H., Rosenberg,S.A., Nambotin,S.B.,
+            Carroll,J.J., Wands,J.R. and Kim,M.
+  TITLE     Identification of T-cell factor-4 isoforms that contribute to the
+            malignant phenotype of hepatocellular carcinoma cells
+  JOURNAL   Exp Cell Res 317 (7), 920-931 (2011)
+   PUBMED   21256126
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1; 6; 9; 13; 14; 15 AND 17),
+            AND ALTERNATIVE SPLICING.
+REFERENCE   5  (residues 1 to 619)
+  AUTHORS   Iseki,H., Takeda,A., Andou,T., Takahashi,N., Ban,S., Kurochkin,I.V.,
+            Okazaki,Y. and Koyama,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-JUN-2008) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 9).; TISSUE=Colon
+REFERENCE   6  (residues 1 to 619)
+  AUTHORS   Ota,T., Suzuki,Y., Nishikawa,T., Otsuki,T., Sugiyama,T., Irie,R.,
+            Wakamatsu,A., Hayashi,K., Sato,H., Nagai,K., Kimura,K., Makita,H.,
+            Sekine,M., Obayashi,M., Nishi,T., Shibahara,T., Tanaka,T., Ishii,S.,
+            Yamamoto,J., Saito,K., Kawai,Y., Isono,Y., Nakamura,Y., Nagahari,K.,
+            Murakami,K., Yasuda,T., Iwayanagi,T., Wagatsuma,M., Shiratori,A.,
+            Sudo,H., Hosoiri,T., Kaku,Y., Kodaira,H., Kondo,H., Sugawara,M.,
+            Takahashi,M., Kanda,K., Yokoi,T., Furuya,T., Kikkawa,E., Omura,Y.,
+            Abe,K., Kamihara,K., Katsuta,N., Sato,K., Tanikawa,M., Yamazaki,M.,
+            Ninomiya,K., Ishibashi,T., Yamashita,H., Murakawa,K., Fujimori,K.,
+            Tanai,H., Kimata,M., Watanabe,M., Hiraoka,S., Chiba,Y., Ishida,S.,
+            Ono,Y., Takiguchi,S., Watanabe,S., Yosida,M., Hotuta,T., Kusano,J.,
+            Kanehori,K., Takahashi-Fujii,A., Hara,H., Tanase,T.O., Nomura,Y.,
+            Togiya,S., Komai,F., Hara,R., Takeuchi,K., Arita,M., Imose,N.,
+            Musashino,K., Yuuki,H., Oshima,A., Sasaki,N., Aotsuka,S.,
+            Yoshikawa,Y., Matsunawa,H., Ichihara,T., Shiohata,N., Sano,S.,
+            Moriya,S., Momiyama,H., Satoh,N., Takami,S., Terashima,Y.,
+            Suzuki,O., Nakagawa,S., Senoh,A., Mizoguchi,H., Goto,Y., Shimizu,F.,
+            Wakebe,H., Hishigaki,H., Watanabe,T., Sugiyama,A., Takemoto,M.,
+            Kawakami,B., Yamazaki,M., Watanabe,K., Kumagai,A., Itakura,S.,
+            Fukuzumi,Y., Fujimori,Y., Komiyama,M., Tashiro,H., Tanigami,A.,
+            Fujiwara,T., Ono,T., Yamada,K., Fujii,Y., Ozaki,K., Hirao,M.,
+            Ohmori,Y., Kawabata,A., Hikiji,T., Kobatake,N., Inagaki,H.,
+            Ikema,Y., Okamoto,S., Okitani,R., Kawakami,T., Noguchi,S., Itoh,T.,
+            Shigeta,K., Senba,T., Matsumura,K., Nakajima,Y., Mizuno,T.,
+            Morinaga,M., Sasaki,M., Togashi,T., Oyama,M., Hata,H., Watanabe,M.,
+            Komatsu,T., Mizushima-Sugano,J., Satoh,T., Shirai,Y., Takahashi,Y.,
+            Nakagawa,K., Okumura,K., Nagase,T., Nomura,N., Kikuchi,H.,
+            Masuho,Y., Yamashita,R., Nakai,K., Yada,T., Nakamura,Y., Ohara,O.,
+            Isogai,T. and Sugano,S.
+  TITLE     Complete sequencing and characterization of 21,243 full-length human
+            cDNAs
+  JOURNAL   Nat Genet 36 (1), 40-45 (2004)
+   PUBMED   14702039
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 14).
+REFERENCE   7  (residues 1 to 619)
+  AUTHORS   Deloukas,P., Earthrowl,M.E., Grafham,D.V., Rubenfield,M., French,L.,
+            Steward,C.A., Sims,S.K., Jones,M.C., Searle,S., Scott,C., Howe,K.,
+            Hunt,S.E., Andrews,T.D., Gilbert,J.G., Swarbreck,D., Ashurst,J.L.,
+            Taylor,A., Battles,J., Bird,C.P., Ainscough,R., Almeida,J.P.,
+            Ashwell,R.I., Ambrose,K.D., Babbage,A.K., Bagguley,C.L., Bailey,J.,
+            Banerjee,R., Bates,K., Beasley,H., Bray-Allen,S., Brown,A.J.,
+            Brown,J.Y., Burford,D.C., Burrill,W., Burton,J., Cahill,P.,
+            Camire,D., Carter,N.P., Chapman,J.C., Clark,S.Y., Clarke,G.,
+            Clee,C.M., Clegg,S., Corby,N., Coulson,A., Dhami,P., Dutta,I.,
+            Dunn,M., Faulkner,L., Frankish,A., Frankland,J.A., Garner,P.,
+            Garnett,J., Gribble,S., Griffiths,C., Grocock,R., Gustafson,E.,
+            Hammond,S., Harley,J.L., Hart,E., Heath,P.D., Ho,T.P., Hopkins,B.,
+            Horne,J., Howden,P.J., Huckle,E., Hynds,C., Johnson,C., Johnson,D.,
+            Kana,A., Kay,M., Kimberley,A.M., Kershaw,J.K., Kokkinaki,M.,
+            Laird,G.K., Lawlor,S., Lee,H.M., Leongamornlert,D.A., Laird,G.,
+            Lloyd,C., Lloyd,D.M., Loveland,J., Lovell,J., McLaren,S.,
+            McLay,K.E., McMurray,A., Mashreghi-Mohammadi,M., Matthews,L.,
+            Milne,S., Nickerson,T., Nguyen,M., Overton-Larty,E., Palmer,S.A.,
+            Pearce,A.V., Peck,A.I., Pelan,S., Phillimore,B., Porter,K.,
+            Rice,C.M., Rogosin,A., Ross,M.T., Sarafidou,T., Sehra,H.K.,
+            Shownkeen,R., Skuce,C.D., Smith,M., Standring,L., Sycamore,N.,
+            Tester,J., Thorpe,A., Torcasso,W., Tracey,A., Tromans,A., Tsolas,J.,
+            Wall,M., Walsh,J., Wang,H., Weinstock,K., West,A.P., Willey,D.L.,
+            Whitehead,S.L., Wilming,L., Wray,P.W., Young,L., Chen,Y.,
+            Lovering,R.C., Moschonas,N.K., Siebert,R., Fechtel,K., Bentley,D.,
+            Durbin,R., Hubbard,T., Doucette-Stamm,L., Beck,S., Smith,D.R. and
+            Rogers,J.
+  TITLE     The DNA sequence and comparative analysis of human chromosome 10
+  JOURNAL   Nature 429 (6990), 375-381 (2004)
+   PUBMED   15164054
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   8  (residues 1 to 619)
+  AUTHORS   Mural,R.J., Istrail,S., Sutton,G., Florea,L., Halpern,A.L.,
+            Mobarry,C.M., Lippert,R., Walenz,B., Shatkay,H., Dew,I.,
+            Miller,J.R., Flanigan,M.J., Edwards,N.J., Bolanos,R., Fasulo,D.,
+            Halldorsson,B.V., Hannenhalli,S., Turner,R., Yooseph,S., Lu,F.,
+            Nusskern,D.R., Shue,B.C., Zheng,X.H., Zhong,F., Delcher,A.L.,
+            Huson,D.H., Kravitz,S.A., Mouchard,L., Reinert,K., Remington,K.A.,
+            Clark,A.G., Waterman,M.S., Eichler,E.E., Adams,M.D.,
+            Hunkapiller,M.W., Myers,E.W. and Venter,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-SEP-2005) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   9  (residues 1 to 619)
+  AUTHORS   Gerhard,D.S., Wagner,L., Feingold,E.A., Shenmen,C.M., Grouse,L.H.,
+            Schuler,G., Klein,S.L., Old,S., Rasooly,R., Good,P., Guyer,M.,
+            Peck,A.M., Derge,J.G., Lipman,D., Collins,F.S., Jang,W., Sherry,S.,
+            Feolo,M., Misquitta,L., Lee,E., Rotmistrovsky,K., Greenhut,S.F.,
+            Schaefer,C.F., Buetow,K., Bonner,T.I., Haussler,D., Kent,J.,
+            Kiekhaus,M., Furey,T., Brent,M., Prange,C., Schreiber,K.,
+            Shapiro,N., Bhat,N.K., Hopkins,R.F., Hsie,F., Driscoll,T.,
+            Soares,M.B., Casavant,T.L., Scheetz,T.E., Brown-stein,M.J.,
+            Usdin,T.B., Toshiyuki,S., Carninci,P., Piao,Y., Dudekula,D.B.,
+            Ko,M.S., Kawakami,K., Suzuki,Y., Sugano,S., Gruber,C.E., Smith,M.R.,
+            Simmons,B., Moore,T., Waterman,R., Johnson,S.L., Ruan,Y., Wei,C.L.,
+            Mathavan,S., Gunaratne,P.H., Wu,J., Garcia,A.M., Hulyk,S.W., Fuh,E.,
+            Yuan,Y., Sneed,A., Kowis,C., Hodgson,A., Muzny,D.M., McPherson,J.,
+            Gibbs,R.A., Fahey,J., Helton,E., Ketteman,M., Madan,A.,
+            Rodrigues,S., Sanchez,A., Whiting,M., Madari,A., Young,A.C.,
+            Wetherby,K.D., Granite,S.J., Kwong,P.N., Brinkley,C.P.,
+            Pearson,R.L., Bouffard,G.G., Blakesly,R.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Griffith,M., Griffith,O.L., Krzywinski,M.I.,
+            Liao,N., Morin,R., Palmquist,D., Petrescu,A.S., Skalska,U.,
+            Smailus,D.E., Stott,J.M., Schnerch,A., Schein,J.E., Jones,S.J.,
+            Holt,R.A., Baross,A., Marra,M.A., Clifton,S., Makowski,K.A.,
+            Bosak,S. and Malek,J.
+  CONSRTM   MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC)
+  JOURNAL   Genome Res 14 (10B), 2121-2127 (2004)
+   PUBMED   15489334
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 10).; TISSUE=Uterus
+            Erratum:[Genome Res. 2006 Jun;16(6):804. Morrin, Ryan [corrected to
+            Morin, Ryan]]
+REFERENCE   10  (residues 1 to 619)
+  AUTHORS   Saeki,H., Tanaka,S. and Sugimachi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-NOV-1999) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] OF 449-494.; TISSUE=Gastric carcinoma
+REFERENCE   11  (residues 1 to 619)
+  AUTHORS   He,T.C., Sparks,A.B., Rago,C., Hermeking,H., Zawel,L., da
+            Costa,L.T., Morin,P.J., Vogelstein,B. and Kinzler,K.W.
+  TITLE     Identification of c-MYC as a target of the APC pathway
+  JOURNAL   Science 281 (5382), 1509-1512 (1998)
+   PUBMED   9727977
+  REMARK    FUNCTION.
+REFERENCE   12  (residues 1 to 619)
+  AUTHORS   Barker,N., Huls,G., Korinek,V. and Clevers,H.
+  TITLE     Restricted high level expression of Tcf-4 protein in intestinal and
+            mammary gland epithelium
+  JOURNAL   Am J Pathol 154 (1), 29-35 (1999)
+   PUBMED   9916915
+  REMARK    TISSUE SPECIFICITY, INTERACTION WITH CTNNB1, AND SUBCELLULAR
+            LOCATION.
+REFERENCE   13  (residues 1 to 619)
+  AUTHORS   Omer,C.A., Miller,P.J., Diehl,R.E. and Kral,A.M.
+  TITLE     Identification of Tcf4 residues involved in high-affinity
+            beta-catenin binding
+  JOURNAL   Biochem Biophys Res Commun 256 (3), 584-590 (1999)
+   PUBMED   10080941
+  REMARK    INTERACTION WITH CTNNB1, AND MUTAGENESIS OF 10-ASP-ASP-11; ASP-16;
+            GLU-17; 23-ASP-GLU-24 AND LEU-48.
+REFERENCE   14  (residues 1 to 619)
+  AUTHORS   Brantjes,H., Roose,J., van De Wetering,M. and Clevers,H.
+  TITLE     All Tcf HMG box transcription factors interact with Groucho-related
+            co-repressors
+  JOURNAL   Nucleic Acids Res 29 (7), 1410-1419 (2001)
+   PUBMED   11266540
+  REMARK    INTERACTION WITH TLE1; TLE2; TLE3 AND TLE4.
+REFERENCE   15  (residues 1 to 619)
+  AUTHORS   van de Wetering,M., Sancho,E., Verweij,C., de Lau,W., Oving,I.,
+            Hurlstone,A., van der Horn,K., Batlle,E., Coudreuse,D.,
+            Haramis,A.P., Tjon-Pon-Fong,M., Moerer,P., van den Born,M.,
+            Soete,G., Pals,S., Eilers,M., Medema,R. and Clevers,H.
+  TITLE     The beta-catenin/TCF-4 complex imposes a crypt progenitor phenotype
+            on colorectal cancer cells
+  JOURNAL   Cell 111 (2), 241-250 (2002)
+   PUBMED   12408868
+  REMARK    FUNCTION.
+REFERENCE   16  (residues 1 to 619)
+  AUTHORS   Yamamoto,H., Ihara,M., Matsuura,Y. and Kikuchi,A.
+  TITLE     Sumoylation is involved in beta-catenin-dependent activation of
+            Tcf-4
+  JOURNAL   EMBO J 22 (9), 2047-2059 (2003)
+   PUBMED   12727872
+  REMARK    SUMOYLATION AT LYS-320, INTERACTION WITH PIAS4, FUNCTION,
+            SUBCELLULAR LOCATION, AND MUTAGENESIS OF LYS-320 AND GLU-322.
+REFERENCE   17  (residues 1 to 619)
+  AUTHORS   Hecht,A. and Stemmler,M.P.
+  TITLE     Identification of a promoter-specific transcriptional activation
+            domain at the C terminus of the Wnt effector protein T-cell factor 4
+  JOURNAL   J Biol Chem 278 (6), 3776-3785 (2003)
+   PUBMED   12446687
+  REMARK    INTERACTION WITH EP300.
+REFERENCE   18  (residues 1 to 619)
+  AUTHORS   Ishitani,T., Ninomiya-Tsuji,J. and Matsumoto,K.
+  TITLE     Regulation of lymphoid enhancer factor 1/T-cell factor by
+            mitogen-activated protein kinase-related Nemo-like kinase-dependent
+            phosphorylation in Wnt/beta-catenin signaling
+  JOURNAL   Mol Cell Biol 23 (4), 1379-1389 (2003)
+   PUBMED   12556497
+  REMARK    INTERACTION WITH NLK, PHOSPHORYLATION AT THR-201 AND/OR THR-212 BY
+            NLK, AND MUTAGENESIS OF THR-201 AND THR-212.
+REFERENCE   19  (residues 1 to 619)
+  AUTHORS   Yamada,M., Ohnishi,J., Ohkawara,B., Iemura,S., Satoh,K.,
+            Hyodo-Miura,J., Kawachi,K., Natsume,T. and Shibuya,H.
+  TITLE     NARF, an nemo-like kinase (NLK)-associated ring finger protein
+            regulates the ubiquitylation and degradation of T cell
+            factor/lymphoid enhancer factor (TCF/LEF)
+  JOURNAL   J Biol Chem 281 (30), 20749-20760 (2006)
+   PUBMED   16714285
+  REMARK    INTERACTION WITH NLK.
+REFERENCE   20  (residues 1 to 619)
+  AUTHORS   Grant,S.F., Thorleifsson,G., Reynisdottir,I., Benediktsson,R.,
+            Manolescu,A., Sainz,J., Helgason,A., Stefansson,H., Emilsson,V.,
+            Helgadottir,A., Styrkarsdottir,U., Magnusson,K.P., Walters,G.B.,
+            Palsdottir,E., Jonsdottir,T., Gudmundsdottir,T., Gylfason,A.,
+            Saemundsdottir,J., Wilensky,R.L., Reilly,M.P., Rader,D.J.,
+            Bagger,Y., Christiansen,C., Gudnason,V., Sigurdsson,G.,
+            Thorsteinsdottir,U., Gulcher,J.R., Kong,A. and Stefansson,K.
+  TITLE     Variant of transcription factor 7-like 2 (TCF7L2) gene confers risk
+            of type 2 diabetes
+  JOURNAL   Nat Genet 38 (3), 320-323 (2006)
+   PUBMED   16415884
+  REMARK    INVOLVEMENT IN NIDDM.
+REFERENCE   21  (residues 1 to 619)
+  AUTHORS   Horndasch,M., Lienkamp,S., Springer,E., Schmitt,A., Pavenstadt,H.,
+            Walz,G. and Gloy,J.
+  TITLE     The C/EBP homologous protein CHOP (GADD153) is an inhibitor of
+            Wnt/TCF signals
+  JOURNAL   Oncogene 25 (24), 3397-3407 (2006)
+   PUBMED   16434966
+  REMARK    INTERACTION WITH DDIT3.
+REFERENCE   22  (residues 1 to 619)
+  AUTHORS   Iwai,A., Hijikata,M., Hishiki,T., Isono,O., Chiba,T. and
+            Shimotohno,K.
+  TITLE     Coiled-coil domain containing 85B suppresses the beta-catenin
+            activity in a p53-dependent manner
+  JOURNAL   Oncogene 27 (11), 1520-1526 (2008)
+   PUBMED   17873903
+  REMARK    INTERACTION WITH CCDC85B.
+REFERENCE   23  (residues 1 to 619)
+  AUTHORS   Mahmoudi,T., Li,V.S., Ng,S.S., Taouatas,N., Vries,R.G., Mohammed,S.,
+            Heck,A.J. and Clevers,H.
+  TITLE     The kinase TNIK is an essential activator of Wnt target genes
+  JOURNAL   EMBO J 28 (21), 3329-3340 (2009)
+   PUBMED   19816403
+  REMARK    INTERACTION WITH TNIK AND CTNNB1.
+REFERENCE   24  (residues 1 to 619)
+  AUTHORS   Hong,C.F., Chou,Y.T., Lin,Y.S. and Wu,C.W.
+  TITLE     MAD2B, a novel TCF4-binding protein, modulates TCF4-mediated
+            epithelial-mesenchymal transdifferentiation
+  JOURNAL   J Biol Chem 284 (29), 19613-19622 (2009)
+   PUBMED   19443654
+  REMARK    FUNCTION, AND INTERACTION WITH MAD2L2.
+REFERENCE   25  (residues 1 to 619)
+  AUTHORS   Lukas,J., Mazna,P., Valenta,T., Doubravska,L., Pospichalova,V.,
+            Vojtechova,M., Fafilek,B., Ivanek,R., Plachy,J., Novak,J. and
+            Korinek,V.
+  TITLE     Dazap2 modulates transcription driven by the Wnt effector TCF-4
+  JOURNAL   Nucleic Acids Res 37 (9), 3007-3020 (2009)
+   PUBMED   19304756
+  REMARK    INTERACTION WITH DAZAP2, AND SUBCELLULAR LOCATION.
+REFERENCE   26  (residues 1 to 619)
+  AUTHORS   Togi,S., Ikeda,O., Kamitani,S., Nakasuji,M., Sekine,Y., Muromoto,R.,
+            Nanbo,A., Oritani,K., Kawai,T., Akira,S. and Matsuda,T.
+  TITLE     Zipper-interacting protein kinase (ZIPK) modulates canonical
+            Wnt/beta-catenin signaling through interaction with Nemo-like kinase
+            and T-cell factor 4 (NLK/TCF4)
+  JOURNAL   J Biol Chem 286 (21), 19170-19177 (2011)
+   PUBMED   21454679
+  REMARK    INTERACTION WITH NLK AND ZIPK/DAPK3.
+REFERENCE   27  (residues 1 to 619)
+  AUTHORS   Yu,Y., Wu,J., Wang,Y., Zhao,T., Ma,B., Liu,Y., Fang,W., Zhu,W.G. and
+            Zhang,H.
+  TITLE     Kindlin 2 forms a transcriptional complex with beta-catenin and TCF4
+            to enhance Wnt signalling
+  JOURNAL   EMBO Rep 13 (8), 750-758 (2012)
+   PUBMED   22699938
+  REMARK    FUNCTION, IDENTIFICATION IN A COMPLEX WITH FERMT2 AND CTNNB1, AND
+            SUBCELLULAR LOCATION.
+REFERENCE   28  (residues 1 to 619)
+  AUTHORS   Satow,R., Shitashige,M., Jigami,T., Fukami,K., Honda,K.,
+            Kitabayashi,I. and Yamada,T.
+  TITLE     beta-catenin inhibits promyelocytic leukemia protein tumor
+            suppressor function in colorectal cancer cells
+  JOURNAL   Gastroenterology 142 (3), 572-581 (2012)
+   PUBMED   22155184
+  REMARK    INTERACTION WITH PML.
+REFERENCE   29  (residues 1 to 619)
+  AUTHORS   Wang,J.X., Zeng,Q., Chen,L., Du,J.C., Yan,X.L., Yuan,H.F., Zhai,C.,
+            Zhou,J.N., Jia,Y.L., Yue,W. and Pei,X.T.
+  TITLE     SPINDLIN1 promotes cancer cell proliferation through activation of
+            WNT/TCF-4 signaling
+  JOURNAL   Mol Cancer Res 10 (3), 326-335 (2012)
+   PUBMED   22258766
+  REMARK    INTERACTION WITH SPIN1.
+REFERENCE   30  (residues 1 to 619)
+  AUTHORS   Hanson,A.J., Wallace,H.A., Freeman,T.J., Beauchamp,R.D., Lee,L.A.
+            and Lee,E.
+  TITLE     XIAP monoubiquitylates Groucho/TLE to promote canonical Wnt
+            signaling
+  JOURNAL   Mol Cell 45 (5), 619-628 (2012)
+   PUBMED   22304967
+  REMARK    INTERACTION WITH XIAP/BIRC4 AND TLE3.
+REFERENCE   31  (residues 1 to 619)
+  AUTHORS   Su,X., Zhu,G., Ding,X., Lee,S.Y., Dou,Y., Zhu,B., Wu,W. and Li,H.
+  TITLE     Molecular basis underlying histone H3 lysine-arginine methylation
+            pattern readout by Spin/Ssty repeats of Spindlin1
+  JOURNAL   Genes Dev 28 (6), 622-636 (2014)
+   PUBMED   24589551
+  REMARK    INTERACTION WITH SPIN1.
+REFERENCE   32  (residues 1 to 619)
+  AUTHORS   Bian,Y., Song,C., Cheng,K., Dong,M., Wang,F., Huang,J., Sun,D.,
+            Wang,L., Ye,M. and Zou,H.
+  TITLE     An enzyme assisted RP-RPLC approach for in-depth analysis of human
+            liver phosphoproteome
+  JOURNAL   J Proteomics 96, 253-262 (2014)
+   PUBMED   24275569
+  REMARK    IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].;
+            TISSUE=Liver
+REFERENCE   33  (residues 1 to 619)
+  AUTHORS   Williams,A.L., Jacobs,S.B., Moreno-Macias,H., Huerta-Chagoya,A.,
+            Churchhouse,C., Marquez-Luna,C., Garcia-Ortiz,H.,
+            Gomez-Vazquez,M.J., Burtt,N.P., Aguilar-Salinas,C.A.,
+            Gonzalez-Villalpando,C., Florez,J.C., Orozco,L., Haiman,C.A.,
+            Tusie-Luna,T. and Altshuler,D.
+  CONSRTM   SIGMA Type 2 Diabetes Consortium
+  TITLE     Sequence variants in SLC16A11 are a common risk factor for type 2
+            diabetes in Mexico
+  JOURNAL   Nature 506 (7486), 97-101 (2014)
+   PUBMED   24390345
+  REMARK    INVOLVEMENT IN NIDDM.
+REFERENCE   34  (residues 1 to 619)
+  AUTHORS   Lu,Y., Xie,S., Zhang,W., Zhang,C., Gao,C., Sun,Q., Cai,Y., Xu,Z.,
+            Xiao,M., Xu,Y., Huang,X., Wu,X., Liu,W., Wang,F., Kang,Y. and
+            Zhou,T.
+  TITLE     Twa1/Gid8 is a beta-catenin nuclear retention factor in Wnt
+            signaling and colorectal tumorigenesis
+  JOURNAL   Cell Res 27 (12), 1422-1440 (2017)
+   PUBMED   28829046
+  REMARK    INTERACTION WITH CTNNB1.
+REFERENCE   35  (residues 1 to 619)
+  AUTHORS   Bae,N., Gao,M., Li,X., Premkumar,T., Sbardella,G., Chen,J. and
+            Bedford,M.T.
+  TITLE     A transcriptional coregulator, SPIN.DOC, attenuates the coactivator
+            activity of Spindlin1
+  JOURNAL   J Biol Chem 292 (51), 20808-20817 (2017)
+   PUBMED   29061846
+  REMARK    INTERACTION WITH C11ORF84/SPINDOC AND SPIN1.
+REFERENCE   36  (residues 1 to 619)
+  AUTHORS   Hendriks,I.A., Lyon,D., Young,C., Jensen,L.J., Vertegaal,A.C. and
+            Nielsen,M.L.
+  TITLE     Site-specific mapping of the human SUMO proteome reveals
+            co-modification with phosphorylation
+  JOURNAL   Nat Struct Mol Biol 24 (3), 325-336 (2017)
+   PUBMED   28112733
+  REMARK    SUMOYLATION [LARGE SCALE ANALYSIS] AT LYS-22 AND LYS-539, AND
+            IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+REFERENCE   37  (residues 1 to 619)
+  AUTHORS   Han,F., Liu,W.B., Shi,X.Y., Yang,J.T., Zhang,X., Li,Z.M., Jiang,X.,
+            Yin,L., Li,J.J., Huang,C.S., Cao,J. and Liu,J.Y.
+  TITLE     SOX30 Inhibits Tumor Metastasis through Attenuating Wnt-Signaling
+            via Transcriptional and Posttranslational Regulation of beta-Catenin
+            in Lung Cancer
+  JOURNAL   EBioMedicine 31, 253-266 (2018)
+   PUBMED   29739711
+  REMARK    INTERACTION WITH CTNNB1.
+REFERENCE   38  (residues 1 to 619)
+  AUTHORS   Graham,T.A., Ferkey,D.M., Mao,F., Kimelman,D. and Xu,W.
+  TITLE     Tcf4 can specifically recognize beta-catenin using alternative
+            conformations
+  JOURNAL   Nat Struct Biol 8 (12), 1048-1052 (2001)
+   PUBMED   11713475
+  REMARK    X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 12-49 IN COMPLEX WITH THE
+            ARMADILLO REPEAT REGION OF CTNNB1, AND MUTAGENESIS OF GLU-24;
+            GLU-26; GLU-28 AND GLU-29.
+REFERENCE   39  (residues 1 to 619)
+  AUTHORS   Poy,F., Lepourcelet,M., Shivdasani,R.A. and Eck,M.J.
+  TITLE     Structure of a human Tcf4-beta-catenin complex
+  JOURNAL   Nat Struct Biol 8 (12), 1053-1057 (2001)
+   PUBMED   11713476
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 8-54 IN COMPLEX WITH THE
+            ARMADILLO REPEAT REGION OF CTNNB1, AND MUTAGENESIS OF ILE-19 AND
+            PHE-21.
+REFERENCE   40  (residues 1 to 619)
+  AUTHORS   Sampietro,J., Dahlberg,C.L., Cho,U.S., Hinds,T.R., Kimelman,D. and
+            Xu,W.
+  TITLE     Crystal structure of a beta-catenin/BCL9/Tcf4 complex
+  JOURNAL   Mol Cell 24 (2), 293-300 (2006)
+   PUBMED   17052462
+  REMARK    X-RAY CRYSTALLOGRAPHY (2.60 ANGSTROMS) OF 1-53 IN COMPLEX WITH BCL9
+            AND CTNNB1, AND INTERACTION WITH CTNNB1.
+REFERENCE   41  (residues 1 to 619)
+  AUTHORS   Sjoblom,T., Jones,S., Wood,L.D., Parsons,D.W., Lin,J., Barber,T.D.,
+            Mandelker,D., Leary,R.J., Ptak,J., Silliman,N., Szabo,S.,
+            Buckhaults,P., Farrell,C., Meeh,P., Markowitz,S.D., Willis,J.,
+            Dawson,D., Willson,J.K., Gazdar,A.F., Hartigan,J., Wu,L., Liu,C.,
+            Parmigiani,G., Park,B.H., Bachman,K.E., Papadopoulos,N.,
+            Vogelstein,B., Kinzler,K.W. and Velculescu,V.E.
+  TITLE     The consensus coding sequences of human breast and colorectal
+            cancers
+  JOURNAL   Science 314 (5797), 268-274 (2006)
+   PUBMED   16959974
+  REMARK    VARIANT [LARGE SCALE ANALYSIS] CYS-465.
+COMMENT     On Jul 17, 2007 this sequence version replaced gi:106288.
+            [FUNCTION] Participates in the Wnt signaling pathway and modulates
+            MYC expression by binding to its promoter in a sequence-specific
+            manner. Acts as repressor in the absence of CTNNB1, and as
+            activator in its presence. Activates transcription from promoters
+            with several copies of the Tcf motif 5'-CCTTTGATC-3' in the
+            presence of CTNNB1. TLE1, TLE2, TLE3 and TLE4 repress
+            transactivation mediated by TCF7L2/TCF4 and CTNNB1. Expression of
+            dominant-negative mutants results in cell-cycle arrest in G1.
+            Necessary for the maintenance of the epithelial stem-cell
+            compartment of the small intestine. {ECO:0000269|PubMed:12408868,
+            ECO:0000269|PubMed:12727872, ECO:0000269|PubMed:19443654,
+            ECO:0000269|PubMed:22699938, ECO:0000269|PubMed:9727977}.
+            [SUBUNIT] Interacts with TGFB1I1 (By similarity). Interacts with
+            CTNNB1 (via the armadillo repeat); forms stable transcription
+            complex (PubMed:9065401, PubMed:9916915, PubMed:10080941,
+            PubMed:19816403, PubMed:28829046, PubMed:29739711,
+            PubMed:17052462). Interacts with EP300. Interacts with NLK.
+            Interacts with CCDC85B (probably through the HMG box); prevents
+            interaction with CTNNB1. Interacts with TNIK. Interacts with
+            MAD2L2; prevents TCF7L2/TCF4 binding to promZIPK/DAPK3oters,
+            negatively modulating its transcriptional activity. Interacts with
+            ZIPK/DAPK3. Interacts with XIAP/BIRC4 and TLE3. Interacts with
+            DDIT3/CHOP. The CTNNB1 and TCF7L2/TCF4 complex interacts with PML
+            (isoform PML-4). Identified in a complex with CTNNB1 and FERMT2.
+            Interacts with SPIN1 (PubMed:22258766, PubMed:24589551,
+            PubMed:29061846). Interacts with C11orf84/SPINDOC in a
+            SPIN1-dependent manner (PubMed:29061846). Interacts with DAZAP2;
+            the interaction results in localization of DAZAP2 to the nucleus
+            (PubMed:19304756). {ECO:0000250|UniProtKB:Q924A0,
+            ECO:0000269|PubMed:10080941, ECO:0000269|PubMed:11266540,
+            ECO:0000269|PubMed:12446687, ECO:0000269|PubMed:12556497,
+            ECO:0000269|PubMed:12727872, ECO:0000269|PubMed:16434966,
+            ECO:0000269|PubMed:16714285, ECO:0000269|PubMed:17052462,
+            ECO:0000269|PubMed:17873903, ECO:0000269|PubMed:19304756,
+            ECO:0000269|PubMed:19443654, ECO:0000269|PubMed:19816403,
+            ECO:0000269|PubMed:21454679, ECO:0000269|PubMed:22155184,
+            ECO:0000269|PubMed:22258766, ECO:0000269|PubMed:22304967,
+            ECO:0000269|PubMed:22699938, ECO:0000269|PubMed:24589551,
+            ECO:0000269|PubMed:28829046, ECO:0000269|PubMed:29061846,
+            ECO:0000269|PubMed:29739711, ECO:0000269|PubMed:9065401,
+            ECO:0000269|PubMed:9916915}.
+            [INTERACTION] Q9NQB0; P35222: CTNNB1; NbExp=27; IntAct=EBI-924724,
+            EBI-491549; Q9NQB0; Q9UER7: DAXX; NbExp=5; IntAct=EBI-924724,
+            EBI-77321; Q9NQB0; Q14526: HIC1; NbExp=6; IntAct=EBI-924724,
+            EBI-2507362; Q9NQB0; Q13761: RUNX3; NbExp=14; IntAct=EBI-924724,
+            EBI-925990; Q9NQB0; Q9UKE5: TNIK; NbExp=3; IntAct=EBI-924724,
+            EBI-1051794; Q9NQB0; Q93009: USP7; NbExp=2; IntAct=EBI-924724,
+            EBI-302474; Q9NQB0; P12956: XRCC6; NbExp=10; IntAct=EBI-924724,
+            EBI-353208; Q9NQB0-10; Q9NP55: BPIFA1; NbExp=3;
+            IntAct=EBI-11746252, EBI-953896; Q9NQB0-10; Q5BKX5-3: C19orf54;
+            NbExp=3; IntAct=EBI-11746252, EBI-11976299; Q9NQB0-10; Q9BYD5:
+            CNFN; NbExp=3; IntAct=EBI-11746252, EBI-12819063; Q9NQB0-10;
+            O43186: CRX; NbExp=3; IntAct=EBI-11746252, EBI-748171; Q9NQB0-10;
+            A8MQ03: CYSRT1; NbExp=3; IntAct=EBI-11746252, EBI-3867333;
+            Q9NQB0-10; A1KXE4-2: FAM168B; NbExp=3; IntAct=EBI-11746252,
+            EBI-12193763; Q9NQB0-10; Q08379: GOLGA2; NbExp=3;
+            IntAct=EBI-11746252, EBI-618309; Q9NQB0-10; Q5TA45: INTS11;
+            NbExp=3; IntAct=EBI-11746252, EBI-748258; Q9NQB0-10; P14923: JUP;
+            NbExp=3; IntAct=EBI-11746252, EBI-702484; Q9NQB0-10; Q3LI72:
+            KRTAP19-5; NbExp=3; IntAct=EBI-11746252, EBI-1048945; Q9NQB0-10;
+            Q3SYF9: KRTAP19-7; NbExp=3; IntAct=EBI-11746252, EBI-10241353;
+            Q9NQB0-10; Q3LI59: KRTAP21-2; NbExp=3; IntAct=EBI-11746252,
+            EBI-18395721; Q9NQB0-10; Q3LI64: KRTAP6-1; NbExp=3;
+            IntAct=EBI-11746252, EBI-12111050; Q9NQB0-10; Q3LI66: KRTAP6-2;
+            NbExp=5; IntAct=EBI-11746252, EBI-11962084; Q9NQB0-10; Q8IUC3:
+            KRTAP7-1; NbExp=3; IntAct=EBI-11746252, EBI-18394498; Q9NQB0-10;
+            P35548: MSX2; NbExp=3; IntAct=EBI-11746252, EBI-6447480; Q9NQB0-10;
+            Q9UF11-2: PLEKHB1; NbExp=3; IntAct=EBI-11746252, EBI-12832742;
+            Q9NQB0-10; O43741: PRKAB2; NbExp=3; IntAct=EBI-11746252,
+            EBI-1053424; Q9NQB0-10; P86480: PRR20D; NbExp=3;
+            IntAct=EBI-11746252, EBI-12754095; Q9NQB0-10; Q53HV7-2: SMUG1;
+            NbExp=3; IntAct=EBI-11746252, EBI-12275818; Q9NQB0-10; Q08117-2:
+            TLE5; NbExp=3; IntAct=EBI-11746252, EBI-11741437; Q9NQB0-10;
+            Q13077: TRAF1; NbExp=3; IntAct=EBI-11746252, EBI-359224; Q9NQB0-10;
+            Q86WV8: TSC1; NbExp=3; IntAct=EBI-11746252, EBI-12806590;
+            Q9NQB0-10; Q6NVU6: UFSP1; NbExp=3; IntAct=EBI-11746252,
+            EBI-12068150.
+            [SUBCELLULAR LOCATION] Nucleus, PML body
+            {ECO:0000269|PubMed:12727872, ECO:0000269|PubMed:22699938,
+            ECO:0000269|PubMed:9916915}. Nucleus {ECO:0000269|PubMed:19304756}.
+            Note=Diffuse pattern. Colocalizes with SUMO1 and PIAS4 in a subset
+            of PML (promyelocytic leukemia) nuclear bodies.
+            [ALTERNATIVE PRODUCTS] Event=Alternative splicing; Named
+            isoforms=17; Name=1; Synonyms=TCF-4M; IsoId=Q9NQB0-1;
+            Sequence=Displayed; Name=2; IsoId=Q9NQB0-2; Sequence=VSP_006970,
+            VSP_006972; Name=3; IsoId=Q9NQB0-3; Sequence=VSP_006966; Name=4;
+            IsoId=Q9NQB0-4; Sequence=VSP_006964, VSP_006970, VSP_006972;
+            Name=5; IsoId=Q9NQB0-5; Sequence=VSP_006964; Name=6;
+            Synonyms=TCF-4I; IsoId=Q9NQB0-6; Sequence=VSP_006967; Name=7;
+            IsoId=Q9NQB0-7; Sequence=VSP_006964, VSP_006966; Name=8;
+            IsoId=Q9NQB0-8; Sequence=VSP_006962; Name=9; Synonyms=TCF-4G;
+            IsoId=Q9NQB0-9; Sequence=VSP_006965, VSP_006969; Name=10;
+            IsoId=Q9NQB0-10; Sequence=VSP_006962, VSP_006963, VSP_006968,
+            VSP_006971; Name=11; IsoId=Q9NQB0-11; Sequence=VSP_006962,
+            VSP_045821, VSP_006965, VSP_006969; Name=12; IsoId=Q9NQB0-12;
+            Sequence=VSP_006962, VSP_045822; Name=13; Synonyms=TCF-4J;
+            IsoId=Q9NQB0-13; Sequence=VSP_006962, VSP_006964, VSP_006966;
+            Name=14; Synonyms=TCF-4B, short; IsoId=Q9NQB0-14;
+            Sequence=VSP_006962, VSP_006965, VSP_006969; Name=15;
+            Synonyms=TCF-4A; IsoId=Q9NQB0-15; Sequence=VSP_006962, VSP_053750,
+            VSP_006965, VSP_006969; Name=16; Synonyms=TCF-4K; IsoId=Q9NQB0-16;
+            Sequence=VSP_006962, VSP_053750, VSP_006964; Name=17;
+            Synonyms=TCF-4X2; IsoId=Q9NQB0-17; Sequence=VSP_053748, VSP_053749.
+            [TISSUE SPECIFICITY] Detected in epithelium from small intestine,
+            with the highest expression at the top of the crypts and a gradient
+            of expression from crypt to villus. Detected in colon epithelium
+            and colon cancer, and in epithelium from mammary gland and
+            carcinomas derived therefrom. {ECO:0000269|PubMed:9916915}.
+            [DEVELOPMENTAL STAGE] Highly expressed in crypt regions and barely
+            detectable in villi in epithelium from fetal small intestine at
+            week 16. At week 22 expression in villi had increased strongly.
+            [DOMAIN] The promoter-specific activation domain interacts with the
+            transcriptional coactivator EP300.
+            [PTM] In vitro, phosphorylated by TNIK.
+            {ECO:0000269|PubMed:12556497}.
+            [PTM] Phosphorylated at Thr-201 and/or Thr-212 by NLK.
+            Phosphorylation by NLK at these sites inhibits DNA-binding by
+            TCF7L2/TCF4, thereby preventing transcriptional activation of
+            target genes of the canonical Wnt/beta-catenin signaling pathway.
+            {ECO:0000269|PubMed:12556497}.
+            [PTM] Polysumoylated. Sumoylation is enhanced by PIAS family
+            members and desumoylation is enhanced by SENP2.
+            Sumoylation/desumoylation regulates TCF7L2/TCF4 transcription
+            activity in the Wnt/beta-catenin signaling pathway without altering
+            interaction with CTNNB1 nor binding to DNA.
+            {ECO:0000269|PubMed:12727872}.
+            [DISEASE] Note=Constitutive activation and subsequent
+            transactivation of target genes may lead to the maintenance of
+            stem-cell characteristics (cycling and longevity) in cells that
+            should normally undergo terminal differentiation and constitute the
+            primary transforming event in colorectal cancer (CRC).
+            [DISEASE] Diabetes mellitus, non-insulin-dependent (NIDDM)
+            [MIM:125853]: A multifactorial disorder of glucose homeostasis
+            caused by a lack of sensitivity to the body's own insulin. Affected
+            individuals usually have an obese body habitus and manifestations
+            of a metabolic syndrome characterized by diabetes, insulin
+            resistance, hypertension and hypertriglyceridemia. The disease
+            results in long-term complications that affect the eyes, kidneys,
+            nerves, and blood vessels. {ECO:0000269|PubMed:16415884,
+            ECO:0000269|PubMed:24390345}. Note=Disease susceptibility is
+            associated with variants affecting the gene represented in this
+            entry.
+            [MISCELLANEOUS] [Isoform 12]: Low expression in pancreas and colon.
+            {ECO:0000305}.
+            [MISCELLANEOUS] [Isoform 13]: Common splicing form, lowest
+            expression in skeletal muscle. {ECO:0000305}.
+            [MISCELLANEOUS] [Isoform 14]: High transcriptional activity. Major
+            isoform in liver. {ECO:0000305}.
+            [SIMILARITY] Belongs to the TCF/LEF family. {ECO:0000305}.
+FEATURES             Location/Qualifiers
+     source          1..619
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     gene            1..619
+                     /gene="TCF7L2"
+                     /gene_synonym="TCF4"
+     Protein         1..619
+                     /product="Transcription factor 7-like 2"
+                     /note="HMG box transcription factor 4; T-cell-specific
+                     transcription factor 4; T-cell factor 4; TCF-4; hTCF-4"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..619
+                     /region_name="Mature chain"
+                     /note="Transcription factor 7-like 2. /id=PRO_0000048623."
+     Region          1..96
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          1..53
+                     /region_name="Region of interest in the sequence"
+                     /note="CTNNB1-binding. /evidence=ECO:0000250."
+     Region          1..6
+                     /region_name="Splicing variant"
+                     /note="MPQLNG -> MSSFLS (in isoform 17).
+                     /evidence=ECO:0000303|PubMed:21256126. /id=VSP_053748."
+     Region          7..290
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 17).
+                     /evidence=ECO:0000303|PubMed:21256126. /id=VSP_053749."
+     Site            10..11
+                     /site_type="mutagenized"
+                     /note="DD->AA: Reduces CTNNB1 binding.
+                     /evidence=ECO:0000269|PubMed:10080941."
+     Region          16..46
+                     /region_name="Compositionally biased region"
+                     /note="Basic and acidic residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Site            16
+                     /site_type="mutagenized"
+                     /note="D->A: Abolishes CTNNB1 binding.
+                     /evidence=ECO:0000269|PubMed:10080941."
+     Region          17..259
+                     /region_name="CTNNB1_binding"
+                     /note="N-terminal CTNNB1 binding; pfam08347"
+                     /db_xref="CDD:429937"
+     Site            17
+                     /site_type="mutagenized"
+                     /note="E->A: Reduces CTNNB1 binding.
+                     /evidence=ECO:0000269|PubMed:10080941."
+     Site            19
+                     /site_type="mutagenized"
+                     /note="I->A: Reduces transcription activation.
+                     /evidence=ECO:0000269|PubMed:11713476."
+     Site            21
+                     /site_type="mutagenized"
+                     /note="F->A: Reduces transcription activation.
+                     /evidence=ECO:0000269|PubMed:11713476."
+     Region          22..31
+                     /region_name="Helical region"
+                     /note="/evidence=ECO:0007829|PDB:1JDH."
+     Bond            22
+                     /bond_type="xlink"
+                     /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+                     G-Cter in SUMO2). /evidence=ECO:0007744|PubMed:28112733."
+     Site            23..24
+                     /site_type="mutagenized"
+                     /note="DE->AA: Reduces CTNNB1 binding.
+                     /evidence=ECO:0000269|PubMed:10080941."
+     Site            24
+                     /site_type="mutagenized"
+                     /note="E->A: Reduces CTNNB1 binding, and abolishes CTNNB1
+                     binding; when associated with A-26; A-28 and A-29.
+                     /evidence=ECO:0000269|PubMed:11713475."
+     Site            26
+                     /site_type="mutagenized"
+                     /note="E->A: Abolishes CTNNB1 binding; when associated with
+                     A-24; A-28 and A-29.
+                     /evidence=ECO:0000269|PubMed:11713475."
+     Site            28
+                     /site_type="mutagenized"
+                     /note="E->A: Abolishes CTNNB1 binding; when associated with
+                     A-24; A-26 and A-29.
+                     /evidence=ECO:0000269|PubMed:11713475."
+     Site            29
+                     /site_type="mutagenized"
+                     /note="E->A: Reduces CTNNB1 binding, and abolishes CTNNB1
+                     binding; when associated with A-24; A-26 and A-28.
+                     /evidence=ECO:0000269|PubMed:11713475."
+     Region          38..48
+                     /region_name="Helical region"
+                     /note="/evidence=ECO:0007829|PDB:1JDH."
+     Region          47..63
+                     /region_name="Compositionally biased region"
+                     /note="Polar residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Site            48
+                     /site_type="mutagenized"
+                     /note="L->A: Abolishes CTNNB1 binding.
+                     /evidence=ECO:0000269|PubMed:10080941."
+     Region          64..91
+                     /region_name="Compositionally biased region"
+                     /note="Basic and acidic residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          118..121
+                     /region_name="Conflict"
+                     /note="NGSL -> KRSV (in Ref. 2; CAB97212/CAB97213).
+                     /evidence=ECO:0000305."
+     Region          128..150
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 8, isoform 10, isoform 11,
+                     isoform 12, isoform 13, isoform 14, isoform 15 and isoform
+                     16). /evidence=ECO:0000303|PubMed:14702039,
+                     ECO:0000303|PubMed:15489334, ECO:0000303|PubMed:19602480,
+                     ECO:0000303|PubMed:21256126, ECO:0000303|PubMed:9065401.
+                     /id=VSP_006962."
+     Region          167
+                     /region_name="Conflict"
+                     /note="Q -> R (in Ref. 4; ADK35180).
+                     /evidence=ECO:0000305."
+     Region          184
+                     /region_name="Splicing variant"
+                     /note="V ->
+                     VSPLPCCTQGHDCQHFYPPSDFTVSTQVFRDMKRSHSLQKVGEPWCIE (in
+                     isoform 11). /evidence=ECO:0000305. /id=VSP_045821."
+     Region          201..395
+                     /region_name="Region of interest in the sequence"
+                     /note="Mediates interaction with MAD2L2.
+                     /evidence=ECO:0000269|PubMed:19443654."
+     Site            201
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine; by NLK.
+                     /evidence=ECO:0000305|PubMed:12556497."
+     Site            201
+                     /site_type="mutagenized"
+                     /note="T->V: Reduced phosphorylation by NLK and enhanced
+                     DNA-binding; when associated with V-212.
+                     /evidence=ECO:0000269|PubMed:12556497."
+     Site            212
+                     /site_type="phosphorylation"
+                     /note="Phosphothreonine; by NLK.
+                     /evidence=ECO:0000305|PubMed:12556497."
+     Site            212
+                     /site_type="mutagenized"
+                     /note="T->V: Reduced phosphorylation by NLK and enhanced
+                     DNA-binding; when associated with V-201.
+                     /evidence=ECO:0000269|PubMed:12556497."
+     Region          226
+                     /region_name="Conflict"
+                     /note="P -> L (in Ref. 4; ADK35180).
+                     /evidence=ECO:0000305."
+     Region          260..263
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 10).
+                     /evidence=ECO:0000303|PubMed:15489334. /id=VSP_006963."
+     Region          290
+                     /region_name="Splicing variant"
+                     /note="M -> MSSFLS (in isoform 15 and isoform 16).
+                     /evidence=ECO:0000303|PubMed:21256126. /id=VSP_053750."
+     Region          290
+                     /region_name="Conflict"
+                     /note="M -> V (in Ref. 1; CAA72166).
+                     /evidence=ECO:0000305."
+     Region          318..350
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          318..332
+                     /region_name="Compositionally biased region"
+                     /note="Polar residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Bond            320
+                     /bond_type="xlink"
+                     /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+                     G-Cter in SUMO). /evidence=ECO:0000269|PubMed:12727872."
+     Site            320
+                     /site_type="mutagenized"
+                     /note="K->R: Loss of sumoylation. No effect on localization
+                     to nuclear bodies. /evidence=ECO:0000269|PubMed:12727872."
+     Site            322
+                     /site_type="mutagenized"
+                     /note="E->A: Loss of sumoylation.
+                     /evidence=ECO:0000269|PubMed:12727872."
+     Region          331
+                     /region_name="Conflict"
+                     /note="L -> H (in Ref. 3; ACI28527).
+                     /evidence=ECO:0000305."
+     Region          333..350
+                     /region_name="Compositionally biased region"
+                     /note="Basic and acidic residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          346
+                     /region_name="Variant"
+                     /note="K -> N (in dbSNP:rs2757884).
+                     /evidence=ECO:0000269|PubMed:10919662. /id=VAR_047126."
+     Region          349..433
+                     /region_name="HMG-box_TCF7-like"
+                     /note="high mobility group (HMG)-box found in the
+                     transcription factor 7 (TCF-7)-like family; cd21996"
+                     /db_xref="CDD:438812"
+     Site            order(349,351..358,361..362,365,375..378,381..382,385,400,
+                     404,407,418..433)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:438812"
+     Site            350..418
+                     /site_type="DNA binding"
+                     /note="HMG box.
+                     /evidence=ECO:0000255|PROSITE-ProRule:PRU00267."
+     Region          420..441
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          425..430
+                     /region_name="Short sequence motif of biological interest"
+                     /note="Nuclear localization signal. /evidence=ECO:0000255."
+     Region          440..465
+                     /region_name="Splicing variant"
+                     /note="EHSECFLNPCLSLPPITDLSAPKKCR ->
+                     GEKKSAFATYKVKAAASAHPLQMEAY (in isoform 9, isoform 11,
+                     isoform 14 and isoform 15).
+                     /evidence=ECO:0000303|PubMed:14702039,
+                     ECO:0000303|PubMed:19602480, ECO:0000303|PubMed:21256126,
+                     ECO:0000303|PubMed:9065401, ECO:0000303|Ref.5.
+                     /id=VSP_006965."
+     Region          440..456
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 4, isoform 5, isoform 7, isoform
+                     13 and isoform 16). /evidence=ECO:0000303|PubMed:19602480,
+                     ECO:0000303|PubMed:21256126. /id=VSP_006964."
+     Region          457..619
+                     /region_name="Splicing variant"
+                     /note="DLSAPKKCRARFGLDQQNNWCGPCRRKKKCVRYIQGEGSCLSPPSSDGSLL
+                     DSPPPSPNLLGSPPRDAKSQTEQTQPLSLSLKPDPLAHLSMMPPPPALLLAEATHKAS
+                     ALCPNGALDLPPAALQPAAPSSSIAQPSTSSLHSHSSLAGTQPQPLSLVTKSLE ->
+                     GEKKSAFATYKVKAAASAHPLQMEAY (in isoform 6).
+                     /evidence=ECO:0000303|PubMed:21256126. /id=VSP_006967."
+     Region          457..482
+                     /region_name="Splicing variant"
+                     /note="DLSAPKKCRARFGLDQQNNWCGPCRR ->
+                     GEKKSAFATYKVKAAASAHPLQMEAY (in isoform 10).
+                     /evidence=ECO:0000303|PubMed:15489334. /id=VSP_006968."
+     Region          457..478
+                     /region_name="Splicing variant"
+                     /note="DLSAPKKCRARFGLDQQNNWCG -> DANTPKKCRALFGLDRQTLWCK (in
+                     isoform 3, isoform 7 and isoform 13).
+                     /evidence=ECO:0000303|PubMed:19602480,
+                     ECO:0000303|PubMed:21256126. /id=VSP_006966."
+     Region          459..505
+                     /region_name="Region of interest in the sequence"
+                     /note="Promoter-specific activation domain."
+     Region          465
+                     /region_name="Variant"
+                     /note="R -> C (in a colorectal cancer sample; somatic
+                     mutation). /evidence=ECO:0000269|PubMed:16959974.
+                     /id=VAR_035939."
+     Region          466..619
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 9, isoform 11, isoform 14 and
+                     isoform 15). /evidence=ECO:0000303|PubMed:14702039,
+                     ECO:0000303|PubMed:19602480, ECO:0000303|PubMed:21256126,
+                     ECO:0000303|PubMed:9065401, ECO:0000303|Ref.5.
+                     /id=VSP_006969."
+     Region          481..619
+                     /region_name="Splicing variant"
+                     /note="RRKKKCVRYIQGEGSCLSPPSSDGSLLDSPPPSPNLLGSPPRDAKSQTEQT
+                     QPLSLSLKPDPLAHLSMMPPPPALLLAEATHKASALCPNGALDLPPAALQPAAPSSSI
+                     AQPSTSSLHSHSSLAGTQPQPLSLVTKSLE -> SL (in isoform 12).
+                     /evidence=ECO:0000303|PubMed:19602480. /id=VSP_045822."
+     Region          482..494
+                     /region_name="Splicing variant"
+                     /note="RKKKCVRYIQGEG -> CKYSKEVSGTVRA (in isoform 2 and
+                     isoform 4). /evidence=ECO:0000305. /id=VSP_006970."
+     Region          483..619
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 10).
+                     /evidence=ECO:0000303|PubMed:15489334. /id=VSP_006971."
+     Region          495..619
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 2 and isoform 4).
+                     /evidence=ECO:0000305. /id=VSP_006972."
+     Region          496..547
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          520..537
+                     /region_name="Compositionally biased region"
+                     /note="Polar residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Bond            539
+                     /bond_type="xlink"
+                     /note="Glycyl lysine isopeptide (Lys-Gly) (interchain with
+                     G-Cter in SUMO2). /evidence=ECO:0007744|PubMed:28112733."
+     Region          574..619
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          584..619
+                     /region_name="Compositionally biased region"
+                     /note="Polar residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          596
+                     /region_name="Conflict"
+                     /note="S -> W (in Ref. 1; CAA72166).
+                     /evidence=ECO:0000305."
+ORIGIN
+        1 mpqlnggggd dlgandelis fkdegeqeek ssenssaerd ladvksslvn esetnqnsss
+       61 dseaerrppp rsesfrdksr esleeaakrq dgglfkgppy pgypfimipd ltspylpngs
+      121 lsptartlhf qsgsthysay ktiehqiavq ylqmkwplld vqagslqsrq alkdarspsp
+      181 ahivsnkvpv vqhphhvhpl tplitysneh ftpgnppphl padvdpktgi prpphppdis
+      241 pyyplspgtv gqiphplgwl vpqqgqpvyp ittggfrhpy ptaltvnasm srfpphmvpp
+      301 hhtlhttgip hpaivtptvk qessqsdvgs lhsskhqdsk keeekkkphi kkplnafmly
+      361 mkemrakvva ectlkesaai nqilgrrwha lsreeqakyy elarkerqlh mqlypgwsar
+      421 dnygkkkkrk rdkqpgetne hsecflnpcl slppitdlsa pkkcrarfgl dqqnnwcgpc
+      481 rrkkkcvryi qgegsclspp ssdgslldsp ppspnllgsp prdaksqteq tqplslslkp
+      541 dplahlsmmp pppalllaea thkasalcpn galdlppaal qpaapsssia qpstsslhsh
+      601 sslagtqpqp lslvtksle
+//
