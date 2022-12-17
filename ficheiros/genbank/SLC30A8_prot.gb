@@ -1,0 +1,475 @@
+LOCUS       ZNT8_HUMAN               369 aa            linear   PRI 14-DEC-2022
+DEFINITION  RecName: Full=Proton-coupled zinc antiporter SLC30A8; AltName:
+            Full=Solute carrier family 30 member 8; AltName: Full=Zinc
+            transporter 8; Short=ZnT-8.
+ACCESSION   Q8IWU4
+VERSION     Q8IWU4.2
+KEYWORDS    3D-structure; Alternative splicing; Antiport; Cell membrane;
+            Cytoplasmic vesicle; Diabetes mellitus; Ion transport; Membrane;
+            Metal-binding; Reference proteome; Transmembrane; Transmembrane
+            helix; Transport; Zinc; Zinc transport.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+DBSOURCE    UniProtKB: locus ZNT8_HUMAN, accession Q8IWU4; class: standard. extra accessions:A0AVP9,A5YM39,B4DPE0,Q8TCL3 created: Mar 20, 2007. sequence updated: Jun 10, 2008. annotation updated: Dec 14, 2022. xrefs: AY117411.1, AAM80562.1, AK298294.1, BAG60552.1, AL713790.1, CAD28545.1, EF560713.1, ABQ59023.1, AC027419.11, AC084114.8, CH471060.1, EAW91968.1, BC126446.1, NP_001166282.1, NP_001166284.1, NP_001166285.1, NP_001166286.1, NP_776250.2, 6XPD_A, 6XPD_B, 6XPE_A, 6XPE_B, 6XPF_A, 6XPF_B xrefs (non-sequence databases): CCDS:CCDS55272.1, CCDS:CCDS6322.1, PDBsum:6XPD, PDBsum:6XPE, PDBsum:6XPF, AlphaFoldDB:Q8IWU4, SMR:Q8IWU4, BioGRID:127975, IntAct:Q8IWU4, MINT:Q8IWU4, STRING:9606.ENSP00000415011, DrugBank:DB14533, DrugBank:DB14548, TCDB:2.A.4.3.5, iPTMnet:Q8IWU4, PhosphoSitePlus:Q8IWU4, BioMuta:SLC30A8, DMDM:190358866, jPOST:Q8IWU4, MassIVE:Q8IWU4, PaxDb:Q8IWU4, PeptideAtlas:Q8IWU4, ProteomicsDB:70895, ProteomicsDB:70896, Antibodypedia:42965, DNASU:169026, Ensembl:ENST00000427715.2, Ensembl:ENSP00000407505.2, Ensembl:ENSG00000164756.13, Ensembl:ENST00000456015.7, Ensembl:ENSP00000415011.2, Ensembl:ENST00000519688.5, Ensembl:ENSP00000431069.1, Ensembl:ENST00000521243.5, Ensembl:ENSP00000428545.1, GeneID:169026, KEGG:hsa:169026, MANE-Select:ENST00000456015.7, UCSC:uc003yog.3, AGR:HGNC:20303, CTD:169026, DisGeNET:169026, GeneCards:SLC30A8, HGNC:20303, HPA:ENSG00000164756, MalaCards:SLC30A8, MIM:125853, MIM:611145, neXtProt:NX_Q8IWU4, OpenTargets:ENSG00000164756, PharmGKB:PA134915546, VEuPathDB:HostDB:ENSG00000164756, eggNOG:KOG1482, GeneTree:ENSGT00940000160706, HOGENOM:CLU_013430_0_1_1, InParanoid:Q8IWU4, OMA:RATKMYA, OrthoDB:820567at2759, PhylomeDB:Q8IWU4, TreeFam:TF313382, PathwayCommons:Q8IWU4, Reactome:R-HSA-264876, Reactome:R-HSA-435368, SignaLink:Q8IWU4, BioGRID-ORCS:169026, ChiTaRS:SLC30A8, GeneWiki:SLC30A8, GenomeRNAi:169026, Pharos:Q8IWU4, PRO:PR:Q8IWU4, Proteomes:UP000005640, RNAct:Q8IWU4, Bgee:ENSG00000164756, ExpressionAtlas:Q8IWU4, Genevisible:Q8IWU4, GO:0031410, GO:0005886, GO:0030141, GO:0030667, GO:0030658, GO:0042803, GO:0008270, GO:0005385, GO:0140826, GO:0006882, GO:0030070, GO:0030073, GO:0032024, GO:0061088, GO:0060627, GO:0009749, GO:0070555, GO:0034341, GO:0010043, GO:0032119, GO:0062111, GO:0071577, GO:0006829, Gene3D:1.20.1510.10, InterPro:IPR002524, InterPro:IPR036837, InterPro:IPR027469, InterPro:IPR033572, PANTHER:PTHR11562:SF37, Pfam:PF01545, SUPFAM:SSF160240, SUPFAM:SSF161111, TIGRFAMs:TIGR01297
+REFERENCE   1  (residues 1 to 369)
+  AUTHORS   Chimienti,F., Devergnas,S., Favier,A. and Seve,M.
+  TITLE     Identification and cloning of a beta-cell-specific zinc transporter,
+            ZnT-8, localized into insulin secretory granules
+  JOURNAL   Diabetes 53 (9), 2330-2337 (2004)
+   PUBMED   15331542
+  REMARK    NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1), FUNCTION, SUBCELLULAR
+            LOCATION, AND TISSUE SPECIFICITY.; TISSUE=Pancreas
+REFERENCE   2  (residues 1 to 369)
+  AUTHORS   Ota,T., Suzuki,Y., Nishikawa,T., Otsuki,T., Sugiyama,T., Irie,R.,
+            Wakamatsu,A., Hayashi,K., Sato,H., Nagai,K., Kimura,K., Makita,H.,
+            Sekine,M., Obayashi,M., Nishi,T., Shibahara,T., Tanaka,T., Ishii,S.,
+            Yamamoto,J., Saito,K., Kawai,Y., Isono,Y., Nakamura,Y., Nagahari,K.,
+            Murakami,K., Yasuda,T., Iwayanagi,T., Wagatsuma,M., Shiratori,A.,
+            Sudo,H., Hosoiri,T., Kaku,Y., Kodaira,H., Kondo,H., Sugawara,M.,
+            Takahashi,M., Kanda,K., Yokoi,T., Furuya,T., Kikkawa,E., Omura,Y.,
+            Abe,K., Kamihara,K., Katsuta,N., Sato,K., Tanikawa,M., Yamazaki,M.,
+            Ninomiya,K., Ishibashi,T., Yamashita,H., Murakawa,K., Fujimori,K.,
+            Tanai,H., Kimata,M., Watanabe,M., Hiraoka,S., Chiba,Y., Ishida,S.,
+            Ono,Y., Takiguchi,S., Watanabe,S., Yosida,M., Hotuta,T., Kusano,J.,
+            Kanehori,K., Takahashi-Fujii,A., Hara,H., Tanase,T.O., Nomura,Y.,
+            Togiya,S., Komai,F., Hara,R., Takeuchi,K., Arita,M., Imose,N.,
+            Musashino,K., Yuuki,H., Oshima,A., Sasaki,N., Aotsuka,S.,
+            Yoshikawa,Y., Matsunawa,H., Ichihara,T., Shiohata,N., Sano,S.,
+            Moriya,S., Momiyama,H., Satoh,N., Takami,S., Terashima,Y.,
+            Suzuki,O., Nakagawa,S., Senoh,A., Mizoguchi,H., Goto,Y., Shimizu,F.,
+            Wakebe,H., Hishigaki,H., Watanabe,T., Sugiyama,A., Takemoto,M.,
+            Kawakami,B., Yamazaki,M., Watanabe,K., Kumagai,A., Itakura,S.,
+            Fukuzumi,Y., Fujimori,Y., Komiyama,M., Tashiro,H., Tanigami,A.,
+            Fujiwara,T., Ono,T., Yamada,K., Fujii,Y., Ozaki,K., Hirao,M.,
+            Ohmori,Y., Kawabata,A., Hikiji,T., Kobatake,N., Inagaki,H.,
+            Ikema,Y., Okamoto,S., Okitani,R., Kawakami,T., Noguchi,S., Itoh,T.,
+            Shigeta,K., Senba,T., Matsumura,K., Nakajima,Y., Mizuno,T.,
+            Morinaga,M., Sasaki,M., Togashi,T., Oyama,M., Hata,H., Watanabe,M.,
+            Komatsu,T., Mizushima-Sugano,J., Satoh,T., Shirai,Y., Takahashi,Y.,
+            Nakagawa,K., Okumura,K., Nagase,T., Nomura,N., Kikuchi,H.,
+            Masuho,Y., Yamashita,R., Nakai,K., Yada,T., Nakamura,Y., Ohara,O.,
+            Isogai,T. and Sugano,S.
+  TITLE     Complete sequencing and characterization of 21,243 full-length human
+            cDNAs
+  JOURNAL   Nat Genet 36 (1), 40-45 (2004)
+   PUBMED   14702039
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).; TISSUE=Kidney
+REFERENCE   3  (residues 1 to 369)
+  AUTHORS   Bechtel,S., Rosenfelder,H., Duda,A., Schmidt,C.P., Ernst,U.,
+            Wellenreuther,R., Mehrle,A., Schuster,C., Bahr,A., Blocker,H.,
+            Heubner,D., Hoerlein,A., Michel,G., Wedler,H., Kohrer,K.,
+            Ottenwalder,B., Poustka,A., Wiemann,S. and Schupp,I.
+  TITLE     The full-ORF clone resource of the German cDNA Consortium
+  JOURNAL   BMC Genomics 8, 399 (2007)
+   PUBMED   17974005
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).;
+            TISSUE=Amygdala, and Brain Publication Status: Online-Only
+REFERENCE   4  (residues 1 to 369)
+  AUTHORS   Nusbaum,C., Mikkelsen,T.S., Zody,M.C., Asakawa,S., Taudien,S.,
+            Garber,M., Kodira,C.D., Schueler,M.G., Shimizu,A., Whittaker,C.A.,
+            Chang,J.L., Cuomo,C.A., Dewar,K., FitzGerald,M.G., Yang,X.,
+            Allen,N.R., Anderson,S., Asakawa,T., Blechschmidt,K., Bloom,T.,
+            Borowsky,M.L., Butler,J., Cook,A., Corum,B., DeArellano,K.,
+            DeCaprio,D., Dooley,K.T., Dorris,L. 3rd, Engels,R., Glockner,G.,
+            Hafez,N., Hagopian,D.S., Hall,J.L., Ishikawa,S.K., Jaffe,D.B.,
+            Kamat,A., Kudoh,J., Lehmann,R., Lokitsang,T., Macdonald,P.,
+            Major,J.E., Matthews,C.D., Mauceli,E., Menzel,U., Mihalev,A.H.,
+            Minoshima,S., Murayama,Y., Naylor,J.W., Nicol,R., Nguyen,C.,
+            O'Leary,S.B., O'Neill,K., Parker,S.C., Polley,A., Raymond,C.K.,
+            Reichwald,K., Rodriguez,J., Sasaki,T., Schilhabel,M., Siddiqui,R.,
+            Smith,C.L., Sneddon,T.P., Talamas,J.A., Tenzin,P., Topham,K.,
+            Venkataraman,V., Wen,G., Yamazaki,S., Young,S.K., Zeng,Q.,
+            Zimmer,A.R., Rosenthal,A., Birren,B.W., Platzer,M., Shimizu,N. and
+            Lander,E.S.
+  TITLE     DNA sequence and analysis of human chromosome 8
+  JOURNAL   Nature 439 (7074), 331-335 (2006)
+   PUBMED   16421571
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   5  (residues 1 to 369)
+  AUTHORS   Mural,R.J., Istrail,S., Sutton,G.G., Florea,L., Halpern,A.L.,
+            Mobarry,C.M., Lippert,R., Walenz,B., Shatkay,H., Dew,I.,
+            Miller,J.R., Flanigan,M.J., Edwards,N.J., Bolanos,R., Fasulo,D.,
+            Halldorsson,B.V., Hannenhalli,S., Turner,R., Yooseph,S., Lu,F.,
+            Nusskern,D.R., Shue,B.C., Zheng,X.H., Zhong,F., Delcher,A.L.,
+            Huson,D.H., Kravitz,S.A., Mouchard,L., Reinert,K., Remington,K.A.,
+            Clark,A.G., Waterman,M.S., Eichler,E.E., Adams,M.D.,
+            Hunkapiller,M.W., Myers,E.W. and Venter,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (??-JUL-2005) to the EMBL/GenBank/DDBJ databases
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+REFERENCE   6  (residues 1 to 369)
+  AUTHORS   Gerhard,D.S., Wagner,L., Feingold,E.A., Shenmen,C.M., Grouse,L.H.,
+            Schuler,G., Klein,S.L., Old,S., Rasooly,R., Good,P., Guyer,M.,
+            Peck,A.M., Derge,J.G., Lipman,D., Collins,F.S., Jang,W., Sherry,S.,
+            Feolo,M., Misquitta,L., Lee,E., Rotmistrovsky,K., Greenhut,S.F.,
+            Schaefer,C.F., Buetow,K., Bonner,T.I., Haussler,D., Kent,J.,
+            Kiekhaus,M., Furey,T., Brent,M., Prange,C., Schreiber,K.,
+            Shapiro,N., Bhat,N.K., Hopkins,R.F., Hsie,F., Driscoll,T.,
+            Soares,M.B., Casavant,T.L., Scheetz,T.E., Brown-stein,M.J.,
+            Usdin,T.B., Toshiyuki,S., Carninci,P., Piao,Y., Dudekula,D.B.,
+            Ko,M.S., Kawakami,K., Suzuki,Y., Sugano,S., Gruber,C.E., Smith,M.R.,
+            Simmons,B., Moore,T., Waterman,R., Johnson,S.L., Ruan,Y., Wei,C.L.,
+            Mathavan,S., Gunaratne,P.H., Wu,J., Garcia,A.M., Hulyk,S.W., Fuh,E.,
+            Yuan,Y., Sneed,A., Kowis,C., Hodgson,A., Muzny,D.M., McPherson,J.,
+            Gibbs,R.A., Fahey,J., Helton,E., Ketteman,M., Madan,A.,
+            Rodrigues,S., Sanchez,A., Whiting,M., Madari,A., Young,A.C.,
+            Wetherby,K.D., Granite,S.J., Kwong,P.N., Brinkley,C.P.,
+            Pearson,R.L., Bouffard,G.G., Blakesly,R.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Griffith,M., Griffith,O.L., Krzywinski,M.I.,
+            Liao,N., Morin,R., Palmquist,D., Petrescu,A.S., Skalska,U.,
+            Smailus,D.E., Stott,J.M., Schnerch,A., Schein,J.E., Jones,S.J.,
+            Holt,R.A., Baross,A., Marra,M.A., Clifton,S., Makowski,K.A.,
+            Bosak,S. and Malek,J.
+  CONSRTM   MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC)
+  JOURNAL   Genome Res 14 (10B), 2121-2127 (2004)
+   PUBMED   15489334
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 2).; TISSUE=Lung
+            Erratum:[Genome Res. 2006 Jun;16(6):804. Morrin, Ryan [corrected to
+            Morin, Ryan]]
+REFERENCE   7  (residues 1 to 369)
+  AUTHORS   Chimienti,F., Favier,A. and Seve,M.
+  TITLE     ZnT-8, a pancreatic beta-cell-specific zinc transporter
+  JOURNAL   Biometals 18 (4), 313-317 (2005)
+   PUBMED   16158222
+  REMARK    TISSUE SPECIFICITY.
+REFERENCE   8  (residues 1 to 369)
+  AUTHORS   Chimienti,F., Devergnas,S., Pattou,F., Schuit,F., Garcia-Cuenca,R.,
+            Vandewalle,B., Kerr-Conte,J., Van Lommel,L., Grunwald,D., Favier,A.
+            and Seve,M.
+  TITLE     In vivo expression and functional characterization of the zinc
+            transporter ZnT8 in glucose-induced insulin secretion
+  JOURNAL   J Cell Sci 119 (Pt 20), 4199-4206 (2006)
+   PUBMED   16984975
+  REMARK    FUNCTION, SUBCELLULAR LOCATION, TISSUE SPECIFICITY, AND TOPOLOGY.
+REFERENCE   9  (residues 1 to 369)
+  AUTHORS   Smidt,K., Pedersen,S.B., Brock,B., Schmitz,O., Fisker,S., Bendix,J.,
+            Wogensen,L. and Rungby,J.
+  TITLE     Zinc-transporter genes in human visceral and subcutaneous
+            adipocytes: lean versus obese
+  JOURNAL   Mol Cell Endocrinol 264 (1-2), 68-73 (2007)
+   PUBMED   17118530
+  REMARK    TISSUE SPECIFICITY.
+REFERENCE   10  (residues 1 to 369)
+  AUTHORS   Overbeck,S., Uciechowski,P., Ackland,M.L., Ford,D. and Rink,L.
+  TITLE     Intracellular zinc homeostasis in leukocyte subsets is regulated by
+            different expression of zinc exporters ZnT-1 to ZnT-9
+  JOURNAL   J Leukoc Biol 83 (2), 368-380 (2008)
+   PUBMED   17971500
+  REMARK    TISSUE SPECIFICITY.
+REFERENCE   11  (residues 1 to 369)
+  AUTHORS   Merriman,C., Huang,Q., Rutter,G.A. and Fu,D.
+  TITLE     Lipid-tuned Zinc Transport Activity of Human ZnT8 Protein Correlates
+            with Risk for Type-2 Diabetes
+  JOURNAL   J Biol Chem 291 (53), 26950-26957 (2016)
+   PUBMED   27875315
+  REMARK    FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES, SUBUNIT, AND
+            CHARACTERIZATION OF VARIANT TRP-325.
+REFERENCE   12  (residues 1 to 369)
+  AUTHORS   Xue,J., Xie,T., Zeng,W., Jiang,Y. and Bai,X.C.
+  TITLE     Cryo-EM structures of human ZnT8 in both outward- and inward-facing
+            conformations
+  JOURNAL   Elife 9, e58823 (2020)
+   PUBMED   32723473
+  REMARK    STRUCTURE BY ELECTRON MICROSCOPY (3.80 ANGSTROMS) OF 50-369 OF
+            WILD-TYPE AND DOUBLE MUTANT ASN-110/ASN-224 IN COMPLEXES WITH ZINC
+            IONS, FUNCTION, CATALYTIC ACTIVITY, SUBUNIT, MUTAGENESIS OF
+            52-HIS--HIS-54; HIS-106; ASP-110; HIS-137; HIS-220; ASP-224 AND
+            HIS-345, MOTIF, AND REACTION MECHANISM. Publication Status:
+            Online-Only
+REFERENCE   13  (residues 1 to 369)
+  AUTHORS   Sladek,R., Rocheleau,G., Rung,J., Dina,C., Shen,L., Serre,D.,
+            Boutin,P., Vincent,D., Belisle,A., Hadjadj,S., Balkau,B., Heude,B.,
+            Charpentier,G., Hudson,T.J., Montpetit,A., Pshezhetsky,A.V.,
+            Prentki,M., Posner,B.I., Balding,D.J., Meyre,D., Polychronakos,C.
+            and Froguel,P.
+  TITLE     A genome-wide association study identifies novel risk loci for type
+            2 diabetes
+  JOURNAL   Nature 445 (7130), 881-885 (2007)
+   PUBMED   17293876
+  REMARK    VARIANT TRP-325, AND INVOLVEMENT IN NONINSULIN-DEPENDENT DIABETES
+            MELLITUS.
+COMMENT     On Jun 14, 2008 this sequence version replaced Q8IWU4.1.
+            [FUNCTION] Proton-coupled zinc ion antiporter mediating the entry
+            of zinc into the lumen of pancreatic beta cell secretory granules,
+            thereby regulating insulin secretion. {ECO:0000269|PubMed:15331542,
+            ECO:0000269|PubMed:16984975, ECO:0000269|PubMed:27875315,
+            ECO:0000269|PubMed:32723473}.
+            [CATALYTIC ACTIVITY] Reaction=2 H(+)(out) + Zn(2+)(in) = 2 H(+)(in)
+            + Zn(2+)(out); Xref=Rhea:RHEA:72627, ChEBI:CHEBI:15378,
+            ChEBI:CHEBI:29105; Evidence={ECO:0000269|PubMed:32723473}.
+            [BIOPHYSICOCHEMICAL PROPERTIES] Kinetic parameters: KM=71.42 uM for
+            Zn(2+) (in reconstituted proteoliposomes composed of
+            phosphatidylcholine, phosphatidylethanolamine,
+            phosphatidylinositol, phosphatidylserine and cholesterol)
+            {ECO:0000269|PubMed:27875315}.
+            [SUBUNIT] Homodimer. {ECO:0000269|PubMed:27875315,
+            ECO:0000269|PubMed:32723473}.
+            [INTERACTION] Q8IWU4; P16157-17: ANK1; NbExp=3;
+            IntAct=EBI-10262251, EBI-941819; Q8IWU4; Q13520: AQP6; NbExp=3;
+            IntAct=EBI-10262251, EBI-13059134; Q8IWU4; Q9NVJ2: ARL8B; NbExp=3;
+            IntAct=EBI-10262251, EBI-718376; Q8IWU4; Q9HD20-3: ATP13A1;
+            NbExp=3; IntAct=EBI-10262251, EBI-12069500; Q8IWU4; Q9BXK5:
+            BCL2L13; NbExp=3; IntAct=EBI-10262251, EBI-747430; Q8IWU4; Q13323:
+            BIK; NbExp=3; IntAct=EBI-10262251, EBI-700794; Q8IWU4; Q8WZ55:
+            BSND; NbExp=3; IntAct=EBI-10262251, EBI-7996695; Q8IWU4; P13236:
+            CCL4; NbExp=3; IntAct=EBI-10262251, EBI-2873970; Q8IWU4; Q8TCZ2:
+            CD99L2; NbExp=3; IntAct=EBI-10262251, EBI-2824782; Q8IWU4; Q99675:
+            CGRRF1; NbExp=3; IntAct=EBI-10262251, EBI-2130213; Q8IWU4; P56747:
+            CLDN6; NbExp=3; IntAct=EBI-10262251, EBI-12955011; Q8IWU4; Q96FZ5:
+            CMTM7; NbExp=3; IntAct=EBI-10262251, EBI-2807956; Q8IWU4; Q7Z7G2:
+            CPLX4; NbExp=3; IntAct=EBI-10262251, EBI-18013275; Q8IWU4; Q96BA8:
+            CREB3L1; NbExp=9; IntAct=EBI-10262251, EBI-6942903; Q8IWU4; Q9BUN8:
+            DERL1; NbExp=3; IntAct=EBI-10262251, EBI-398977; Q8IWU4; Q15125:
+            EBP; NbExp=3; IntAct=EBI-10262251, EBI-3915253; Q8IWU4; Q9GZR5:
+            ELOVL4; NbExp=3; IntAct=EBI-10262251, EBI-18535450; Q8IWU4; Q9Y282:
+            ERGIC3; NbExp=3; IntAct=EBI-10262251, EBI-781551; Q8IWU4; P60508:
+            ERVFRD-1; NbExp=3; IntAct=EBI-10262251, EBI-17973325; Q8IWU4;
+            Q5JX71: FAM209A; NbExp=3; IntAct=EBI-10262251, EBI-18304435;
+            Q8IWU4; Q96KR6: FAM210B; NbExp=3; IntAct=EBI-10262251,
+            EBI-18938272; Q8IWU4; Q96IV6: FAXDC2; NbExp=3; IntAct=EBI-10262251,
+            EBI-12142299; Q8IWU4; Q8TBE3: FNDC9; NbExp=3; IntAct=EBI-10262251,
+            EBI-12142257; Q8IWU4; O60883: GPR37L1; NbExp=3;
+            IntAct=EBI-10262251, EBI-2927498; Q8IWU4; O15529: GPR42; NbExp=3;
+            IntAct=EBI-10262251, EBI-18076404; Q8IWU4; Q14416: GRM2; NbExp=3;
+            IntAct=EBI-10262251, EBI-10232876; Q8IWU4; Q9NP66: HMG20A; NbExp=3;
+            IntAct=EBI-10262251, EBI-740641; Q8IWU4; P30519: HMOX2; NbExp=3;
+            IntAct=EBI-10262251, EBI-712096; Q8IWU4; Q8NBQ5: HSD17B11; NbExp=3;
+            IntAct=EBI-10262251, EBI-1052304; Q8IWU4; Q96MG2: JSRP1; NbExp=3;
+            IntAct=EBI-10262251, EBI-11305455; Q8IWU4; A8MZ59: LEUTX; NbExp=3;
+            IntAct=EBI-10262251, EBI-17490413; Q8IWU4; P15941-11: MUC1;
+            NbExp=3; IntAct=EBI-10262251, EBI-17263240; Q8IWU4; Q16617: NKG7;
+            NbExp=3; IntAct=EBI-10262251, EBI-3919611; Q8IWU4; Q9P0S3: ORMDL1;
+            NbExp=3; IntAct=EBI-10262251, EBI-1054848; Q8IWU4; Q9NUU6: OTULINL;
+            NbExp=3; IntAct=EBI-10262251, EBI-6916492; Q8IWU4; P12004: PCNA;
+            NbExp=3; IntAct=EBI-10262251, EBI-358311; Q8IWU4; O15173: PGRMC2;
+            NbExp=3; IntAct=EBI-10262251, EBI-1050125; Q8IWU4; Q99640-2:
+            PKMYT1; NbExp=3; IntAct=EBI-10262251, EBI-12257782; Q8IWU4; P26678:
+            PLN; NbExp=3; IntAct=EBI-10262251, EBI-692836; Q8IWU4; P43378:
+            PTPN9; NbExp=3; IntAct=EBI-10262251, EBI-742898; Q8IWU4; Q9H6H4:
+            REEP4; NbExp=3; IntAct=EBI-10262251, EBI-7545592; Q8IWU4; Q96HR9-2:
+            REEP6; NbExp=3; IntAct=EBI-10262251, EBI-14065960; Q8IWU4; Q8NC24:
+            RELL2; NbExp=3; IntAct=EBI-10262251, EBI-10269209; Q8IWU4; Q96TC7:
+            RMDN3; NbExp=3; IntAct=EBI-10262251, EBI-1056589; Q8IWU4; O95197-3:
+            RTN3; NbExp=3; IntAct=EBI-10262251, EBI-11525735; Q8IWU4; Q96GQ5:
+            RUSF1; NbExp=3; IntAct=EBI-10262251, EBI-8636004; Q8IWU4; Q9NR31:
+            SAR1A; NbExp=3; IntAct=EBI-10262251, EBI-3920694; Q8IWU4; Q9NY72:
+            SCN3B; NbExp=3; IntAct=EBI-10262251, EBI-17247926; Q8IWU4; Q9Y6D0:
+            SELENOK; NbExp=3; IntAct=EBI-10262251, EBI-9679163; Q8IWU4; Q8WV19:
+            SFT2D1; NbExp=3; IntAct=EBI-10262251, EBI-2854842; Q8IWU4; O95562:
+            SFT2D2; NbExp=3; IntAct=EBI-10262251, EBI-4402330; Q8IWU4;
+            P54219-3: SLC18A1; NbExp=3; IntAct=EBI-10262251, EBI-17595455;
+            Q8IWU4; Q99726: SLC30A3; NbExp=3; IntAct=EBI-10262251,
+            EBI-10294651; Q8IWU4; Q9NP94: SLC39A2; NbExp=3;
+            IntAct=EBI-10262251, EBI-12898013; Q8IWU4; Q9NPE6: SPAG4; NbExp=3;
+            IntAct=EBI-10262251, EBI-10819434; Q8IWU4; Q8WWF3: SSMEM1; NbExp=3;
+            IntAct=EBI-10262251, EBI-17280858; Q8IWU4; Q8N2H4: SYS1; NbExp=3;
+            IntAct=EBI-10262251, EBI-13075176; Q8IWU4; Q8N9I0: SYT2; NbExp=3;
+            IntAct=EBI-10262251, EBI-8032987; Q8IWU4; Q8WY91: THAP4; NbExp=3;
+            IntAct=EBI-10262251, EBI-726691; Q8IWU4; Q9C0I4: THSD7B; NbExp=3;
+            IntAct=EBI-10262251, EBI-311394; Q8IWU4; P17152: TMEM11; NbExp=3;
+            IntAct=EBI-10262251, EBI-723946; Q8IWU4; Q8IV31: TMEM139; NbExp=3;
+            IntAct=EBI-10262251, EBI-7238458; Q8IWU4; Q9NUH8: TMEM14B; NbExp=3;
+            IntAct=EBI-10262251, EBI-8638294; Q8IWU4; Q9BTX3: TMEM208; NbExp=3;
+            IntAct=EBI-10262251, EBI-12876824; Q8IWU4; Q96Q45-2: TMEM237;
+            NbExp=3; IntAct=EBI-10262251, EBI-10982110; Q8IWU4; O95807:
+            TMEM50A; NbExp=3; IntAct=EBI-10262251, EBI-12903814; Q8IWU4;
+            Q4KMG9: TMEM52B; NbExp=3; IntAct=EBI-10262251, EBI-18178701;
+            Q8IWU4; Q96HE8: TMEM80; NbExp=3; IntAct=EBI-10262251, EBI-11742770;
+            Q8IWU4; Q9P0T7: TMEM9; NbExp=3; IntAct=EBI-10262251, EBI-723976;
+            Q8IWU4; O60636: TSPAN2; NbExp=3; IntAct=EBI-10262251, EBI-3914288;
+            Q8IWU4; P23763-3: VAMP1; NbExp=3; IntAct=EBI-10262251,
+            EBI-12097582; Q8IWU4; P63027: VAMP2; NbExp=3; IntAct=EBI-10262251,
+            EBI-520113; Q8IWU4; Q9BSR8: YIPF4; NbExp=3; IntAct=EBI-10262251,
+            EBI-751253; Q8IWU4; Q96EC8: YIPF6; NbExp=3; IntAct=EBI-10262251,
+            EBI-751210; Q8IWU4; Q5T4F4: ZFYVE27; NbExp=3; IntAct=EBI-10262251,
+            EBI-3892947; Q8IWU4; PRO_0000041304 [P08563]; Xeno; NbExp=2;
+            IntAct=EBI-10262251, EBI-11477759.
+            [SUBCELLULAR LOCATION] Cytoplasmic vesicle, secretory vesicle
+            membrane {ECO:0000269|PubMed:15331542,
+            ECO:0000269|PubMed:16984975}; Multi-pass membrane protein
+            {ECO:0000255}. Cell membrane {ECO:0000269|PubMed:15331542,
+            ECO:0000269|PubMed:16984975}; Multi-pass membrane protein
+            {ECO:0000255}. Note=Associated with insulin and glucagon secretory
+            granules. {ECO:0000269|PubMed:15331542}.
+            [ALTERNATIVE PRODUCTS] Event=Alternative splicing; Named
+            isoforms=2; Name=1; IsoId=Q8IWU4-1; Sequence=Displayed; Name=2;
+            IsoId=Q8IWU4-2; Sequence=VSP_024025.
+            [TISSUE SPECIFICITY] In the endocrine pancreas, expressed in
+            insulin-producing beta cells. Expressed at relatively high levels
+            in subcutaneous fat tissue from lean persons; much lower levels in
+            visceral fat, whether from lean or obese individuals, and in
+            subcutaneous fat tissue from obese individuals. Expressed in
+            peripheral blood mononuclear cells, including T-cells and B-cells,
+            with great variation among individuals ranging from negative to
+            strongly positive. {ECO:0000269|PubMed:15331542,
+            ECO:0000269|PubMed:16158222, ECO:0000269|PubMed:16984975,
+            ECO:0000269|PubMed:17118530, ECO:0000269|PubMed:17971500}.
+            [POLYMORPHISM] Variant Trp-325 is a risk factor that confers
+            susceptibility to diabetes mellitus, noninsulin-dependent (NIDDM)
+            [MIM:125853]. {ECO:0000269|PubMed:17293876}.
+            [MISCELLANEOUS] Each subunit of the homodimer independently
+            transports zinc ions in a pH-dependent manner. The cytosolic pH
+            promotes binding of zinc ions to the transporter binding site. Upon
+            change into the organelle-facing conformation, the two histidines
+            of the zinc-binding site get protonated at lumenal lower pH,
+            triggering zinc release into the organelle. The transporter then
+            moves back to the cytosolic-facing conformation where the two
+            histidines get deprotonated at higher pH, resulting in a net
+            antiport of 2 protons. {ECO:0000303|PubMed:32723473}.
+            [SIMILARITY] Belongs to the cation diffusion facilitator (CDF)
+            transporter (TC 2.A.4) family. SLC30A subfamily. {ECO:0000305}.
+FEATURES             Location/Qualifiers
+     source          1..369
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     gene            1..369
+                     /gene="SLC30A8"
+                     /gene_synonym="ZNT8"
+     Protein         1..369
+                     /product="Proton-coupled zinc antiporter SLC30A8"
+                     /note="Solute carrier family 30 member 8; Zinc transporter
+                     8; ZnT-8"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..369
+                     /region_name="Mature chain"
+                     /note="Proton-coupled zinc antiporter SLC30A8.
+                     /id=PRO_0000281740."
+     Region          1..79
+                     /region_name="Topological domain"
+                     /note="Cytoplasmic. /evidence=ECO:0000269|PubMed:16984975."
+     Region          1..49
+                     /region_name="Splicing variant"
+                     /note="Missing (in isoform 2).
+                     /evidence=ECO:0000303|PubMed:14702039,
+                     ECO:0000303|PubMed:15489334, ECO:0000303|PubMed:17974005.
+                     /id=VSP_024025."
+     Region          18
+                     /region_name="Conflict"
+                     /note="Y -> H (in Ref. 1; AAM80562).
+                     /evidence=ECO:0000305."
+     Region          31..52
+                     /region_name="Region of interest in the sequence"
+                     /note="Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          33..48
+                     /region_name="Compositionally biased region"
+                     /note="Basic and acidic residues.
+                     /evidence=ECO:0000256|SAM:MobiDB-lite."
+     Region          52..54
+                     /region_name="Short sequence motif of biological interest"
+                     /note="HCH Motif; seals regulatory zinc-binding pocket.
+                     /evidence=ECO:0000269|PubMed:32723473."
+     Site            52..54
+                     /site_type="mutagenized"
+                     /note="Missing: Decreased zinc ion transmembrane transport.
+                     /evidence=ECO:0000269|PubMed:32723473."
+     Region          80..100
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Region          83..353
+                     /region_name="CDF"
+                     /note="cation diffusion facilitator family transporter;
+                     TIGR01297"
+                     /db_xref="CDD:273544"
+     Region          101..103
+                     /region_name="Topological domain"
+                     /note="Lumenal, vesicle.
+                     /evidence=ECO:0000269|PubMed:16984975."
+     Region          104..124
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Site            106
+                     /site_type="mutagenized"
+                     /note="H->A: Decreased zinc ion transmembrane transport;
+                     when associated with A-220.
+                     /evidence=ECO:0000269|PubMed:32723473."
+     Site            110
+                     /site_type="mutagenized"
+                     /note="D->N: Loss of transported zinc binding and decreased
+                     zinc ion transmembrane transport; when associated with
+                     N-224. /evidence=ECO:0000269|PubMed:32723473."
+     Region          123
+                     /region_name="Conflict"
+                     /note="L -> S (in Ref. 3; ABQ59023).
+                     /evidence=ECO:0000305."
+     Region          125..140
+                     /region_name="Topological domain"
+                     /note="Cytoplasmic. /evidence=ECO:0000269|PubMed:16984975."
+     Site            137
+                     /site_type="mutagenized"
+                     /note="H->A: Decreased zinc ion transmembrane transport;
+                     when associated with A-345.
+                     /evidence=ECO:0000269|PubMed:32723473."
+     Region          141..161
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Region          162..175
+                     /region_name="Topological domain"
+                     /note="Lumenal, vesicle.
+                     /evidence=ECO:0000269|PubMed:16984975."
+     Region          176..196
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Region          197..217
+                     /region_name="Topological domain"
+                     /note="Cytoplasmic. /evidence=ECO:0000269|PubMed:16984975."
+     Region          218..238
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Site            220
+                     /site_type="mutagenized"
+                     /note="H->A: Decreased zinc ion transmembrane transport;
+                     when associated with A-106.
+                     /evidence=ECO:0000269|PubMed:32723473."
+     Region          222
+                     /region_name="Conflict"
+                     /note="L -> P (in Ref. 3; CAD28545).
+                     /evidence=ECO:0000305."
+     Site            224
+                     /site_type="mutagenized"
+                     /note="D->N: Loss of transported zinc binding and decreased
+                     zinc ion transmembrane transport; when associated with
+                     N-110. /evidence=ECO:0000269|PubMed:32723473."
+     Region          239..245
+                     /region_name="Topological domain"
+                     /note="Lumenal, vesicle.
+                     /evidence=ECO:0000269|PubMed:16984975."
+     Region          246..266
+                     /region_name="Transmembrane region"
+                     /note="Helical. /evidence=ECO:0000255."
+     Region          267..369
+                     /region_name="Topological domain"
+                     /note="Cytoplasmic. /evidence=ECO:0000269|PubMed:16984975."
+     Region          302
+                     /region_name="Conflict"
+                     /note="S -> C (in Ref. 3; CAD28545).
+                     /evidence=ECO:0000305."
+     Region          325
+                     /region_name="Variant"
+                     /note="R -> Q (in dbSNP:rs16889462). /id=VAR_031258."
+     Region          325
+                     /region_name="Variant"
+                     /note="R -> W (decreased transport reaction kinetics;
+                     decreased affinity for zinc ions; decreased zinc ion import
+                     into organelle; no effect on protein abundance;
+                     dbSNP:rs13266634). /evidence=ECO:0000269|PubMed:17293876,
+                     ECO:0000269|PubMed:27875315. /id=VAR_031259."
+     Site            345
+                     /site_type="mutagenized"
+                     /note="H->A: Decreased zinc ion transmembrane transport;
+                     when associated with A-137.
+                     /evidence=ECO:0000269|PubMed:32723473."
+ORIGIN
+        1 meflertylv ndkaakmyaf tlesvelqqk pvnkdqcpre rpeelesggm yhchsgskpt
+       61 ekganeyaya kwklcsasai cfifmiaevv gghiagslav vtdaahllid ltsfllslfs
+      121 lwlsskppsk rltfgwhrae ilgallsilc iwvvtgvlvy lacerllypd yqiqatvmii
+      181 vsscavaani vltvvlhqrc lghnhkevqa nasvraafvh algdlfqsis vlisaliiyf
+      241 kpeykiadpi ctfifsilvl astitilkdf sillmegvpk slnysgvkel ilavdgvlsv
+      301 hslhiwsltm nqvilsahva taasrdsqvv rreiakalsk sftmhsltiq mespvdqdpd
+      361 clfcedpcd
+//
